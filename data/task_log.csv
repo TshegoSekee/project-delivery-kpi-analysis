@@ -1,0 +1,1451 @@
+task_id,start_date,category,coordinator,planned_days,actual_days,due_date,completed_date,handoffs,required_rework
+T01031,2024-05-06,Field deployment,Coordinator C,14,30,2024-05-20,2024-06-05,6,False
+T01123,2024-05-06,Stakeholder report,Coordinator D,2,5,2024-05-08,2024-05-11,5,False
+T00361,2024-05-07,Field deployment,Coordinator C,15,29,2024-05-22,2024-06-05,4,False
+T01187,2024-05-07,Stakeholder report,Coordinator A,5,11,2024-05-12,2024-05-18,4,False
+T00138,2024-05-07,Training rollout,Coordinator A,9,9,2024-05-16,2024-05-16,4,False
+T01026,2024-05-07,Site audit,Coordinator C,5,10,2024-05-12,2024-05-17,4,True
+T00289,2024-05-07,Site audit,Coordinator C,5,7,2024-05-12,2024-05-14,3,False
+T00354,2024-05-08,Stakeholder report,Coordinator D,4,9,2024-05-12,2024-05-17,4,False
+T01263,2024-05-08,Stakeholder report,Coordinator B,3,2,2024-05-11,2024-05-10,5,False
+T00019,2024-05-08,Field deployment,Coordinator C,12,11,2024-05-20,2024-05-19,3,False
+T01336,2024-05-09,Stakeholder report,Coordinator C,4,3,2024-05-13,2024-05-12,2,False
+T00216,2024-05-09,Stakeholder report,Coordinator D,3,3,2024-05-12,2024-05-12,5,False
+T00051,2024-05-09,Procurement,Coordinator C,12,22,2024-05-21,2024-05-31,1,True
+T00035,2024-05-09,Field deployment,Coordinator D,13,31,2024-05-22,2024-06-09,4,True
+T00486,2024-05-10,Stakeholder report,Coordinator B,5,12,2024-05-15,2024-05-22,6,False
+T00225,2024-05-10,Stakeholder report,Coordinator B,5,4,2024-05-15,2024-05-14,1,True
+T00232,2024-05-10,Stakeholder report,Coordinator C,5,5,2024-05-15,2024-05-15,3,False
+T00726,2024-05-11,Field deployment,Coordinator D,13,25,2024-05-24,2024-06-05,2,False
+T00861,2024-05-12,Site audit,Coordinator C,2,4,2024-05-14,2024-05-16,6,True
+T00080,2024-05-12,Procurement,Coordinator B,11,10,2024-05-23,2024-05-22,2,False
+T01157,2024-05-12,Site audit,Coordinator C,5,8,2024-05-17,2024-05-20,6,True
+T00514,2024-05-12,Field deployment,Coordinator A,13,21,2024-05-25,2024-06-02,7,False
+T00020,2024-05-12,Stakeholder report,Coordinator B,2,2,2024-05-14,2024-05-14,9,False
+T01216,2024-05-13,Stakeholder report,Coordinator A,3,6,2024-05-16,2024-05-19,5,False
+T00197,2024-05-14,Stakeholder report,Coordinator C,4,4,2024-05-18,2024-05-18,5,False
+T00326,2024-05-14,Training rollout,Coordinator C,7,7,2024-05-21,2024-05-21,6,True
+T00892,2024-05-14,Training rollout,Coordinator C,3,2,2024-05-17,2024-05-16,5,False
+T00949,2024-05-15,Field deployment,Coordinator B,13,12,2024-05-28,2024-05-27,3,False
+T00504,2024-05-15,Site audit,Coordinator A,5,9,2024-05-20,2024-05-24,4,False
+T01283,2024-05-15,Site audit,Coordinator D,4,12,2024-05-19,2024-05-27,2,False
+T00952,2024-05-16,Training rollout,Coordinator B,9,11,2024-05-25,2024-05-27,5,False
+T00133,2024-05-16,Field deployment,Coordinator B,11,10,2024-05-27,2024-05-26,3,False
+T00113,2024-05-17,Site audit,Coordinator D,6,6,2024-05-23,2024-05-23,1,True
+T00915,2024-05-17,Field deployment,Coordinator C,11,11,2024-05-28,2024-05-28,6,False
+T01189,2024-05-18,Procurement,Coordinator D,9,9,2024-05-27,2024-05-27,5,False
+T00026,2024-05-18,Stakeholder report,Coordinator A,3,2,2024-05-21,2024-05-20,4,False
+T01036,2024-05-18,Procurement,Coordinator D,10,10,2024-05-28,2024-05-28,3,False
+T00299,2024-05-18,Stakeholder report,Coordinator D,2,1,2024-05-20,2024-05-19,6,False
+T00435,2024-05-19,Field deployment,Coordinator B,17,16,2024-06-05,2024-06-04,4,False
+T01406,2024-05-19,Procurement,Coordinator D,12,17,2024-05-31,2024-06-05,4,False
+T00474,2024-05-20,Training rollout,Coordinator C,4,4,2024-05-24,2024-05-24,5,False
+T00323,2024-05-20,Site audit,Coordinator B,4,13,2024-05-24,2024-06-02,4,False
+T01089,2024-05-20,Field deployment,Coordinator A,12,11,2024-06-01,2024-05-31,4,True
+T01444,2024-05-21,Field deployment,Coordinator D,13,13,2024-06-03,2024-06-03,3,False
+T00608,2024-05-21,Field deployment,Coordinator C,13,19,2024-06-03,2024-06-09,1,False
+T00459,2024-05-21,Site audit,Coordinator B,5,4,2024-05-26,2024-05-25,6,True
+T00955,2024-05-22,Training rollout,Coordinator D,6,10,2024-05-28,2024-06-01,5,False
+T00386,2024-05-22,Procurement,Coordinator A,10,17,2024-06-01,2024-06-08,1,False
+T00446,2024-05-23,Stakeholder report,Coordinator D,3,3,2024-05-26,2024-05-26,7,True
+T01002,2024-05-23,Training rollout,Coordinator A,6,6,2024-05-29,2024-05-29,3,False
+T00445,2024-05-24,Procurement,Coordinator A,8,11,2024-06-01,2024-06-04,5,True
+T01264,2024-05-25,Stakeholder report,Coordinator B,3,2,2024-05-28,2024-05-27,4,False
+T00199,2024-05-26,Procurement,Coordinator A,9,8,2024-06-04,2024-06-03,3,True
+T01302,2024-05-26,Field deployment,Coordinator D,14,17,2024-06-09,2024-06-12,3,True
+T00724,2024-05-26,Field deployment,Coordinator C,8,8,2024-06-03,2024-06-03,5,True
+T01411,2024-05-26,Stakeholder report,Coordinator C,4,4,2024-05-30,2024-05-30,5,False
+T01145,2024-05-27,Site audit,Coordinator D,3,9,2024-05-30,2024-06-05,6,False
+T01159,2024-05-28,Training rollout,Coordinator D,10,14,2024-06-07,2024-06-11,3,False
+T00243,2024-05-28,Stakeholder report,Coordinator D,5,12,2024-06-02,2024-06-09,9,False
+T00236,2024-05-29,Procurement,Coordinator C,8,8,2024-06-06,2024-06-06,6,False
+T00913,2024-05-29,Field deployment,Coordinator A,14,41,2024-06-12,2024-07-09,3,False
+T01116,2024-05-29,Site audit,Coordinator A,4,3,2024-06-02,2024-06-01,4,False
+T01433,2024-05-30,Stakeholder report,Coordinator A,3,3,2024-06-02,2024-06-02,5,False
+T00120,2024-05-30,Training rollout,Coordinator C,4,3,2024-06-03,2024-06-02,1,False
+T01228,2024-05-30,Stakeholder report,Coordinator A,3,6,2024-06-02,2024-06-05,7,False
+T01172,2024-05-31,Procurement,Coordinator B,12,12,2024-06-12,2024-06-12,2,False
+T00973,2024-05-31,Procurement,Coordinator D,8,7,2024-06-08,2024-06-07,5,False
+T00914,2024-06-01,Site audit,Coordinator D,4,3,2024-06-05,2024-06-04,5,True
+T00953,2024-06-02,Stakeholder report,Coordinator D,4,6,2024-06-06,2024-06-08,2,False
+T00183,2024-06-02,Training rollout,Coordinator D,9,19,2024-06-11,2024-06-21,2,False
+T00295,2024-06-03,Procurement,Coordinator C,9,11,2024-06-12,2024-06-14,3,False
+T01193,2024-06-03,Site audit,Coordinator A,8,13,2024-06-11,2024-06-16,5,False
+T00977,2024-06-03,Stakeholder report,Coordinator D,3,3,2024-06-06,2024-06-06,5,False
+T01147,2024-06-03,Training rollout,Coordinator D,6,13,2024-06-09,2024-06-16,4,False
+T00864,2024-06-04,Field deployment,Coordinator D,13,21,2024-06-17,2024-06-25,6,True
+T00761,2024-06-04,Site audit,Coordinator D,5,9,2024-06-09,2024-06-13,4,False
+T00350,2024-06-04,Field deployment,Coordinator B,12,12,2024-06-16,2024-06-16,3,True
+T00219,2024-06-04,Training rollout,Coordinator C,8,7,2024-06-12,2024-06-11,5,True
+T00992,2024-06-04,Stakeholder report,Coordinator A,4,3,2024-06-08,2024-06-07,6,False
+T00660,2024-06-04,Site audit,Coordinator B,4,4,2024-06-08,2024-06-08,3,False
+T00190,2024-06-04,Site audit,Coordinator B,6,6,2024-06-10,2024-06-10,5,False
+T00596,2024-06-05,Site audit,Coordinator C,5,7,2024-06-10,2024-06-12,8,True
+T01065,2024-06-05,Stakeholder report,Coordinator A,3,6,2024-06-08,2024-06-11,8,False
+T00503,2024-06-05,Field deployment,Coordinator B,10,19,2024-06-15,2024-06-24,6,False
+T00349,2024-06-05,Procurement,Coordinator B,11,11,2024-06-16,2024-06-16,6,False
+T00594,2024-06-06,Stakeholder report,Coordinator C,5,11,2024-06-11,2024-06-17,2,False
+T01322,2024-06-07,Procurement,Coordinator B,9,23,2024-06-16,2024-06-30,3,True
+T00681,2024-06-07,Procurement,Coordinator C,5,8,2024-06-12,2024-06-15,4,False
+T00687,2024-06-07,Procurement,Coordinator B,8,15,2024-06-15,2024-06-22,4,False
+T01307,2024-06-07,Field deployment,Coordinator C,14,13,2024-06-21,2024-06-20,3,False
+T00971,2024-06-08,Procurement,Coordinator B,8,8,2024-06-16,2024-06-16,3,True
+T01057,2024-06-08,Stakeholder report,Coordinator A,3,2,2024-06-11,2024-06-10,4,False
+T00636,2024-06-08,Procurement,Coordinator A,9,19,2024-06-17,2024-06-27,9,False
+T01011,2024-06-08,Procurement,Coordinator A,7,6,2024-06-15,2024-06-14,5,False
+T00925,2024-06-08,Stakeholder report,Coordinator B,6,5,2024-06-14,2024-06-13,2,False
+T00192,2024-06-09,Training rollout,Coordinator D,5,5,2024-06-14,2024-06-14,5,False
+T00729,2024-06-09,Stakeholder report,Coordinator B,4,3,2024-06-13,2024-06-12,4,False
+T00899,2024-06-09,Training rollout,Coordinator A,3,3,2024-06-12,2024-06-12,5,False
+T00529,2024-06-09,Field deployment,Coordinator D,7,13,2024-06-16,2024-06-22,6,False
+T00140,2024-06-09,Field deployment,Coordinator C,10,21,2024-06-19,2024-06-30,4,True
+T00244,2024-06-10,Stakeholder report,Coordinator C,5,7,2024-06-15,2024-06-17,3,True
+T00220,2024-06-11,Training rollout,Coordinator A,7,16,2024-06-18,2024-06-27,3,False
+T01398,2024-06-11,Stakeholder report,Coordinator B,4,9,2024-06-15,2024-06-20,8,False
+T01421,2024-06-11,Procurement,Coordinator B,10,33,2024-06-21,2024-07-14,4,False
+T00353,2024-06-11,Procurement,Coordinator A,10,10,2024-06-21,2024-06-21,6,False
+T00421,2024-06-11,Procurement,Coordinator B,5,4,2024-06-16,2024-06-15,3,False
+T00292,2024-06-11,Training rollout,Coordinator B,4,6,2024-06-15,2024-06-17,5,False
+T00212,2024-06-12,Stakeholder report,Coordinator B,4,3,2024-06-16,2024-06-15,3,False
+T01130,2024-06-13,Field deployment,Coordinator B,13,29,2024-06-26,2024-07-12,5,True
+T00814,2024-06-13,Stakeholder report,Coordinator A,5,5,2024-06-18,2024-06-18,1,False
+T00482,2024-06-13,Field deployment,Coordinator A,10,15,2024-06-23,2024-06-28,3,False
+T00061,2024-06-14,Field deployment,Coordinator A,12,11,2024-06-26,2024-06-25,3,False
+T00881,2024-06-14,Field deployment,Coordinator B,10,9,2024-06-24,2024-06-23,5,True
+T00033,2024-06-15,Stakeholder report,Coordinator C,3,3,2024-06-18,2024-06-18,2,False
+T00402,2024-06-15,Stakeholder report,Coordinator D,3,2,2024-06-18,2024-06-17,5,False
+T01414,2024-06-15,Stakeholder report,Coordinator D,5,10,2024-06-20,2024-06-25,3,False
+T00789,2024-06-15,Site audit,Coordinator C,5,13,2024-06-20,2024-06-28,2,False
+T01163,2024-06-16,Stakeholder report,Coordinator C,3,2,2024-06-19,2024-06-18,4,False
+T00935,2024-06-17,Training rollout,Coordinator B,7,6,2024-06-24,2024-06-23,5,True
+T00804,2024-06-17,Training rollout,Coordinator D,7,6,2024-06-24,2024-06-23,3,False
+T00249,2024-06-17,Procurement,Coordinator C,9,8,2024-06-26,2024-06-25,1,False
+T01136,2024-06-18,Stakeholder report,Coordinator A,5,10,2024-06-23,2024-06-28,1,True
+T00907,2024-06-18,Field deployment,Coordinator B,7,12,2024-06-25,2024-06-30,6,False
+T01137,2024-06-18,Procurement,Coordinator D,9,9,2024-06-27,2024-06-27,3,False
+T00265,2024-06-19,Field deployment,Coordinator B,13,25,2024-07-02,2024-07-14,6,False
+T01109,2024-06-19,Stakeholder report,Coordinator B,4,3,2024-06-23,2024-06-22,2,False
+T00532,2024-06-20,Stakeholder report,Coordinator C,6,6,2024-06-26,2024-06-26,3,False
+T00267,2024-06-20,Stakeholder report,Coordinator D,3,3,2024-06-23,2024-06-23,1,False
+T01382,2024-06-20,Site audit,Coordinator B,4,6,2024-06-24,2024-06-26,5,False
+T00319,2024-06-20,Stakeholder report,Coordinator B,3,3,2024-06-23,2024-06-23,4,False
+T00844,2024-06-21,Field deployment,Coordinator D,11,40,2024-07-02,2024-07-31,4,True
+T00438,2024-06-21,Training rollout,Coordinator D,5,5,2024-06-26,2024-06-26,5,False
+T00188,2024-06-21,Procurement,Coordinator D,8,8,2024-06-29,2024-06-29,3,False
+T00204,2024-06-21,Field deployment,Coordinator A,20,31,2024-07-11,2024-07-22,4,False
+T00491,2024-06-22,Field deployment,Coordinator B,12,11,2024-07-04,2024-07-03,4,False
+T00191,2024-06-23,Site audit,Coordinator B,6,6,2024-06-29,2024-06-29,3,False
+T01372,2024-06-23,Procurement,Coordinator A,8,7,2024-07-01,2024-06-30,8,False
+T01353,2024-06-23,Site audit,Coordinator C,5,4,2024-06-28,2024-06-27,4,False
+T01007,2024-06-23,Site audit,Coordinator C,5,4,2024-06-28,2024-06-27,3,False
+T01225,2024-06-23,Site audit,Coordinator A,7,19,2024-06-30,2024-07-12,5,False
+T01081,2024-06-24,Stakeholder report,Coordinator B,4,9,2024-06-28,2024-07-03,6,False
+T00339,2024-06-24,Stakeholder report,Coordinator C,4,4,2024-06-28,2024-06-28,2,False
+T00678,2024-06-24,Training rollout,Coordinator D,6,12,2024-06-30,2024-07-06,4,True
+T00060,2024-06-24,Stakeholder report,Coordinator C,2,4,2024-06-26,2024-06-28,3,False
+T00127,2024-06-24,Training rollout,Coordinator D,7,6,2024-07-01,2024-06-30,2,True
+T00147,2024-06-24,Site audit,Coordinator D,6,6,2024-06-30,2024-06-30,4,False
+T01082,2024-06-25,Field deployment,Coordinator A,18,20,2024-07-13,2024-07-15,7,True
+T01304,2024-06-25,Stakeholder report,Coordinator A,4,4,2024-06-29,2024-06-29,4,False
+T00411,2024-06-25,Training rollout,Coordinator B,5,10,2024-06-30,2024-07-05,4,False
+T01023,2024-06-25,Stakeholder report,Coordinator C,4,7,2024-06-29,2024-07-02,4,False
+T00621,2024-06-25,Stakeholder report,Coordinator C,4,8,2024-06-29,2024-07-03,9,False
+T01076,2024-06-26,Stakeholder report,Coordinator A,3,6,2024-06-29,2024-07-02,1,False
+T01246,2024-06-28,Procurement,Coordinator D,4,7,2024-07-02,2024-07-05,2,False
+T01271,2024-06-28,Field deployment,Coordinator A,6,18,2024-07-04,2024-07-16,6,False
+T00943,2024-06-29,Procurement,Coordinator B,7,9,2024-07-06,2024-07-08,5,False
+T00549,2024-06-29,Procurement,Coordinator C,13,13,2024-07-12,2024-07-12,2,False
+T00200,2024-06-29,Training rollout,Coordinator A,10,10,2024-07-09,2024-07-09,4,False
+T00304,2024-06-29,Site audit,Coordinator C,4,4,2024-07-03,2024-07-03,3,False
+T01110,2024-06-29,Procurement,Coordinator C,4,6,2024-07-03,2024-07-05,5,False
+T00652,2024-06-30,Procurement,Coordinator A,11,19,2024-07-11,2024-07-19,1,False
+T00648,2024-06-30,Procurement,Coordinator B,6,9,2024-07-06,2024-07-09,6,False
+T00717,2024-07-01,Field deployment,Coordinator A,14,32,2024-07-15,2024-08-02,8,False
+T01450,2024-07-03,Training rollout,Coordinator D,9,9,2024-07-12,2024-07-12,2,False
+T01392,2024-07-04,Procurement,Coordinator A,9,13,2024-07-13,2024-07-17,7,True
+T00658,2024-07-04,Stakeholder report,Coordinator C,5,5,2024-07-09,2024-07-09,4,False
+T00834,2024-07-04,Field deployment,Coordinator B,11,19,2024-07-15,2024-07-23,6,True
+T00337,2024-07-05,Training rollout,Coordinator C,7,6,2024-07-12,2024-07-11,8,False
+T00737,2024-07-06,Procurement,Coordinator B,5,11,2024-07-11,2024-07-17,4,False
+T01079,2024-07-06,Field deployment,Coordinator D,19,18,2024-07-25,2024-07-24,4,True
+T00352,2024-07-07,Stakeholder report,Coordinator B,5,13,2024-07-12,2024-07-20,4,False
+T00944,2024-07-07,Site audit,Coordinator A,3,7,2024-07-10,2024-07-14,4,False
+T00797,2024-07-07,Stakeholder report,Coordinator C,4,4,2024-07-11,2024-07-11,3,False
+T00840,2024-07-07,Stakeholder report,Coordinator B,5,5,2024-07-12,2024-07-12,2,False
+T00571,2024-07-08,Procurement,Coordinator B,9,15,2024-07-17,2024-07-23,3,True
+T00171,2024-07-08,Field deployment,Coordinator C,7,14,2024-07-15,2024-07-22,7,False
+T01310,2024-07-08,Procurement,Coordinator B,10,10,2024-07-18,2024-07-18,2,False
+T00941,2024-07-08,Field deployment,Coordinator A,9,17,2024-07-17,2024-07-25,5,False
+T00825,2024-07-08,Stakeholder report,Coordinator C,4,12,2024-07-12,2024-07-20,4,False
+T00434,2024-07-09,Field deployment,Coordinator B,10,14,2024-07-19,2024-07-23,4,False
+T00414,2024-07-09,Site audit,Coordinator C,5,12,2024-07-14,2024-07-21,4,False
+T00995,2024-07-09,Stakeholder report,Coordinator D,4,4,2024-07-13,2024-07-13,2,False
+T00302,2024-07-10,Training rollout,Coordinator C,6,11,2024-07-16,2024-07-21,3,False
+T00447,2024-07-10,Site audit,Coordinator C,5,8,2024-07-15,2024-07-18,5,False
+T00348,2024-07-11,Site audit,Coordinator D,4,4,2024-07-15,2024-07-15,3,False
+T00719,2024-07-11,Training rollout,Coordinator A,6,8,2024-07-17,2024-07-19,2,False
+T00047,2024-07-12,Procurement,Coordinator C,10,14,2024-07-22,2024-07-26,2,False
+T00313,2024-07-12,Stakeholder report,Coordinator B,3,5,2024-07-15,2024-07-17,2,False
+T01291,2024-07-13,Procurement,Coordinator B,12,28,2024-07-25,2024-08-10,4,False
+T00480,2024-07-14,Site audit,Coordinator A,8,17,2024-07-22,2024-07-31,3,False
+T00387,2024-07-15,Field deployment,Coordinator A,12,21,2024-07-27,2024-08-05,3,False
+T00595,2024-07-15,Stakeholder report,Coordinator A,4,3,2024-07-19,2024-07-18,3,False
+T00215,2024-07-15,Stakeholder report,Coordinator B,5,12,2024-07-20,2024-07-27,5,False
+T01058,2024-07-16,Field deployment,Coordinator A,18,17,2024-08-03,2024-08-02,6,True
+T00281,2024-07-16,Stakeholder report,Coordinator A,3,5,2024-07-19,2024-07-21,3,False
+T00932,2024-07-16,Training rollout,Coordinator C,6,8,2024-07-22,2024-07-24,4,False
+T00756,2024-07-17,Site audit,Coordinator C,4,8,2024-07-21,2024-07-25,5,False
+T01300,2024-07-18,Field deployment,Coordinator A,10,20,2024-07-28,2024-08-07,5,False
+T00305,2024-07-18,Procurement,Coordinator A,10,10,2024-07-28,2024-07-28,2,False
+T00092,2024-07-18,Site audit,Coordinator A,5,13,2024-07-23,2024-07-31,7,False
+T00196,2024-07-18,Stakeholder report,Coordinator A,4,4,2024-07-22,2024-07-22,3,True
+T00405,2024-07-18,Procurement,Coordinator C,10,16,2024-07-28,2024-08-03,5,False
+T01092,2024-07-18,Field deployment,Coordinator A,15,15,2024-08-02,2024-08-02,4,True
+T00862,2024-07-18,Field deployment,Coordinator C,12,28,2024-07-30,2024-08-15,4,False
+T01295,2024-07-19,Field deployment,Coordinator D,14,25,2024-08-02,2024-08-13,8,False
+T01388,2024-07-20,Site audit,Coordinator A,5,4,2024-07-25,2024-07-24,3,True
+T00028,2024-07-20,Field deployment,Coordinator A,6,6,2024-07-26,2024-07-26,6,False
+T01140,2024-07-20,Stakeholder report,Coordinator D,2,2,2024-07-22,2024-07-22,2,False
+T00757,2024-07-21,Stakeholder report,Coordinator A,5,4,2024-07-26,2024-07-25,4,False
+T00559,2024-07-21,Field deployment,Coordinator B,7,15,2024-07-28,2024-08-05,3,False
+T01282,2024-07-21,Procurement,Coordinator A,8,11,2024-07-29,2024-08-01,4,False
+T00407,2024-07-22,Procurement,Coordinator D,9,27,2024-07-31,2024-08-18,7,True
+T01012,2024-07-22,Training rollout,Coordinator A,1,1,2024-07-23,2024-07-23,3,False
+T00959,2024-07-22,Stakeholder report,Coordinator C,3,6,2024-07-25,2024-07-28,3,False
+T00703,2024-07-22,Stakeholder report,Coordinator D,3,2,2024-07-25,2024-07-24,4,False
+T00704,2024-07-22,Training rollout,Coordinator C,6,6,2024-07-28,2024-07-28,6,False
+T00465,2024-07-23,Field deployment,Coordinator C,13,31,2024-08-05,2024-08-23,3,False
+T00273,2024-07-23,Stakeholder report,Coordinator B,5,12,2024-07-28,2024-08-04,5,False
+T00620,2024-07-24,Field deployment,Coordinator B,12,11,2024-08-05,2024-08-04,2,True
+T01365,2024-07-24,Stakeholder report,Coordinator B,3,7,2024-07-27,2024-07-31,5,False
+T01311,2024-07-24,Stakeholder report,Coordinator C,4,3,2024-07-28,2024-07-27,6,False
+T00565,2024-07-24,Site audit,Coordinator A,5,10,2024-07-29,2024-08-03,2,False
+T00762,2024-07-25,Site audit,Coordinator C,5,9,2024-07-30,2024-08-03,4,False
+T00880,2024-07-25,Procurement,Coordinator C,11,10,2024-08-05,2024-08-04,3,False
+T00255,2024-07-25,Field deployment,Coordinator D,10,17,2024-08-04,2024-08-11,3,False
+T00282,2024-07-26,Training rollout,Coordinator B,4,11,2024-07-30,2024-08-06,5,True
+T00004,2024-07-27,Field deployment,Coordinator A,13,12,2024-08-09,2024-08-08,1,False
+T01099,2024-07-28,Training rollout,Coordinator D,6,5,2024-08-03,2024-08-02,4,False
+T00670,2024-07-29,Field deployment,Coordinator C,14,19,2024-08-12,2024-08-17,3,False
+T01186,2024-07-29,Training rollout,Coordinator B,8,12,2024-08-06,2024-08-10,6,False
+T00723,2024-07-29,Procurement,Coordinator A,7,7,2024-08-05,2024-08-05,3,False
+T00845,2024-07-29,Stakeholder report,Coordinator D,3,7,2024-08-01,2024-08-05,5,True
+T00246,2024-07-31,Training rollout,Coordinator D,10,9,2024-08-10,2024-08-09,3,True
+T00180,2024-08-01,Stakeholder report,Coordinator D,3,5,2024-08-04,2024-08-06,3,False
+T01260,2024-08-02,Site audit,Coordinator B,7,7,2024-08-09,2024-08-09,2,False
+T00391,2024-08-02,Site audit,Coordinator A,5,4,2024-08-07,2024-08-06,4,True
+T01125,2024-08-03,Site audit,Coordinator D,5,5,2024-08-08,2024-08-08,4,False
+T00066,2024-08-03,Stakeholder report,Coordinator C,5,5,2024-08-08,2024-08-08,4,False
+T01371,2024-08-03,Field deployment,Coordinator D,17,23,2024-08-20,2024-08-26,2,False
+T00712,2024-08-05,Field deployment,Coordinator D,10,21,2024-08-15,2024-08-26,4,True
+T00401,2024-08-08,Site audit,Coordinator A,7,6,2024-08-15,2024-08-14,4,False
+T00209,2024-08-08,Stakeholder report,Coordinator B,3,2,2024-08-11,2024-08-10,4,False
+T00382,2024-08-08,Procurement,Coordinator B,11,10,2024-08-19,2024-08-18,5,False
+T00415,2024-08-08,Field deployment,Coordinator B,10,10,2024-08-18,2024-08-18,5,False
+T00064,2024-08-09,Field deployment,Coordinator D,14,14,2024-08-23,2024-08-23,3,False
+T01224,2024-08-09,Procurement,Coordinator C,11,10,2024-08-20,2024-08-19,4,False
+T01443,2024-08-09,Procurement,Coordinator C,10,14,2024-08-19,2024-08-23,2,False
+T00875,2024-08-10,Site audit,Coordinator A,6,6,2024-08-16,2024-08-16,4,False
+T00467,2024-08-10,Stakeholder report,Coordinator D,5,7,2024-08-15,2024-08-17,3,False
+T00477,2024-08-10,Stakeholder report,Coordinator B,4,7,2024-08-14,2024-08-17,6,False
+T00052,2024-08-10,Training rollout,Coordinator B,8,7,2024-08-18,2024-08-17,5,False
+T00218,2024-08-10,Field deployment,Coordinator A,12,16,2024-08-22,2024-08-26,6,False
+T00981,2024-08-11,Field deployment,Coordinator B,7,15,2024-08-18,2024-08-26,5,False
+T00601,2024-08-11,Site audit,Coordinator B,4,7,2024-08-15,2024-08-18,6,False
+T01146,2024-08-13,Stakeholder report,Coordinator B,2,6,2024-08-15,2024-08-19,5,False
+T00671,2024-08-13,Training rollout,Coordinator C,6,8,2024-08-19,2024-08-21,7,True
+T00453,2024-08-14,Training rollout,Coordinator A,6,14,2024-08-20,2024-08-28,5,False
+T00854,2024-08-15,Stakeholder report,Coordinator D,3,3,2024-08-18,2024-08-18,5,False
+T00328,2024-08-15,Field deployment,Coordinator A,11,50,2024-08-26,2024-10-04,5,False
+T01004,2024-08-15,Training rollout,Coordinator A,4,4,2024-08-19,2024-08-19,7,False
+T00280,2024-08-16,Stakeholder report,Coordinator C,5,8,2024-08-21,2024-08-24,3,False
+T00851,2024-08-16,Field deployment,Coordinator D,9,8,2024-08-25,2024-08-24,4,False
+T00417,2024-08-16,Field deployment,Coordinator A,13,12,2024-08-29,2024-08-28,2,False
+T00023,2024-08-17,Stakeholder report,Coordinator C,4,10,2024-08-21,2024-08-27,3,False
+T00883,2024-08-17,Stakeholder report,Coordinator C,5,5,2024-08-22,2024-08-22,5,False
+T00288,2024-08-19,Procurement,Coordinator D,8,21,2024-08-27,2024-09-09,6,False
+T00870,2024-08-19,Stakeholder report,Coordinator C,4,4,2024-08-23,2024-08-23,5,False
+T00235,2024-08-19,Training rollout,Coordinator B,7,6,2024-08-26,2024-08-25,7,False
+T01391,2024-08-20,Site audit,Coordinator D,5,4,2024-08-25,2024-08-24,3,True
+T00916,2024-08-20,Stakeholder report,Coordinator C,4,10,2024-08-24,2024-08-30,4,False
+T00347,2024-08-21,Procurement,Coordinator C,13,29,2024-09-03,2024-09-19,4,False
+T00587,2024-08-22,Stakeholder report,Coordinator C,6,10,2024-08-28,2024-09-01,6,True
+T01232,2024-08-22,Training rollout,Coordinator A,11,21,2024-09-02,2024-09-12,1,True
+T00046,2024-08-23,Stakeholder report,Coordinator A,6,6,2024-08-29,2024-08-29,4,False
+T00744,2024-08-23,Procurement,Coordinator C,8,12,2024-08-31,2024-09-04,4,True
+T00174,2024-08-23,Stakeholder report,Coordinator D,3,3,2024-08-26,2024-08-26,3,False
+T00003,2024-08-23,Stakeholder report,Coordinator D,5,8,2024-08-28,2024-08-31,6,False
+T01220,2024-08-23,Training rollout,Coordinator B,5,16,2024-08-28,2024-09-08,3,False
+T01235,2024-08-24,Field deployment,Coordinator D,11,10,2024-09-04,2024-09-03,7,False
+T00186,2024-08-24,Stakeholder report,Coordinator D,4,4,2024-08-28,2024-08-28,3,False
+T01069,2024-08-24,Stakeholder report,Coordinator C,4,12,2024-08-28,2024-09-05,3,False
+T00716,2024-08-24,Field deployment,Coordinator C,14,13,2024-09-07,2024-09-06,5,False
+T00553,2024-08-25,Site audit,Coordinator C,6,5,2024-08-31,2024-08-30,3,True
+T00184,2024-08-26,Site audit,Coordinator B,4,13,2024-08-30,2024-09-08,2,False
+T00079,2024-08-26,Stakeholder report,Coordinator D,5,4,2024-08-31,2024-08-30,2,False
+T00510,2024-08-26,Procurement,Coordinator A,13,26,2024-09-08,2024-09-21,8,True
+T00375,2024-08-27,Site audit,Coordinator C,6,16,2024-09-02,2024-09-12,3,False
+T00946,2024-08-27,Stakeholder report,Coordinator D,4,3,2024-08-31,2024-08-30,3,False
+T01386,2024-08-27,Training rollout,Coordinator C,9,15,2024-09-05,2024-09-11,5,False
+T01339,2024-08-27,Site audit,Coordinator D,3,6,2024-08-30,2024-09-02,5,False
+T01440,2024-08-28,Training rollout,Coordinator A,7,7,2024-09-04,2024-09-04,3,False
+T01008,2024-08-28,Field deployment,Coordinator C,17,33,2024-09-14,2024-09-30,3,False
+T00547,2024-08-28,Field deployment,Coordinator C,13,12,2024-09-10,2024-09-09,4,False
+T01177,2024-08-28,Procurement,Coordinator A,6,11,2024-09-03,2024-09-08,3,True
+T00002,2024-08-29,Stakeholder report,Coordinator C,4,7,2024-09-02,2024-09-05,5,False
+T01348,2024-08-30,Training rollout,Coordinator C,5,8,2024-09-04,2024-09-07,5,False
+T00780,2024-08-30,Training rollout,Coordinator D,10,10,2024-09-09,2024-09-09,4,True
+T00777,2024-08-30,Site audit,Coordinator C,4,3,2024-09-03,2024-09-02,7,False
+T00385,2024-08-31,Field deployment,Coordinator D,14,13,2024-09-14,2024-09-13,3,False
+T01242,2024-08-31,Procurement,Coordinator C,10,43,2024-09-10,2024-10-13,5,False
+T01251,2024-08-31,Procurement,Coordinator A,10,18,2024-09-10,2024-09-18,4,True
+T01152,2024-08-31,Site audit,Coordinator C,4,4,2024-09-04,2024-09-04,6,False
+T00624,2024-09-01,Field deployment,Coordinator D,12,12,2024-09-13,2024-09-13,8,False
+T00384,2024-09-01,Stakeholder report,Coordinator A,3,5,2024-09-04,2024-09-06,4,True
+T01448,2024-09-01,Field deployment,Coordinator B,8,35,2024-09-09,2024-10-06,6,False
+T00179,2024-09-03,Stakeholder report,Coordinator C,5,11,2024-09-08,2024-09-14,2,True
+T00256,2024-09-04,Procurement,Coordinator D,12,11,2024-09-16,2024-09-15,5,False
+T00996,2024-09-04,Field deployment,Coordinator A,13,12,2024-09-17,2024-09-16,2,False
+T00189,2024-09-04,Training rollout,Coordinator C,10,20,2024-09-14,2024-09-24,3,True
+T00118,2024-09-04,Field deployment,Coordinator C,11,21,2024-09-15,2024-09-25,4,False
+T00976,2024-09-04,Training rollout,Coordinator C,9,9,2024-09-13,2024-09-13,2,False
+T00130,2024-09-05,Field deployment,Coordinator C,14,24,2024-09-19,2024-09-29,3,False
+T00290,2024-09-05,Site audit,Coordinator D,4,10,2024-09-09,2024-09-15,2,False
+T01328,2024-09-06,Training rollout,Coordinator B,4,9,2024-09-10,2024-09-15,2,False
+T01258,2024-09-06,Field deployment,Coordinator D,16,16,2024-09-22,2024-09-22,3,True
+T01401,2024-09-07,Stakeholder report,Coordinator A,3,8,2024-09-10,2024-09-15,4,False
+T00886,2024-09-09,Training rollout,Coordinator B,8,13,2024-09-17,2024-09-22,3,False
+T00779,2024-09-09,Field deployment,Coordinator B,10,16,2024-09-19,2024-09-25,3,False
+T01059,2024-09-10,Stakeholder report,Coordinator B,2,2,2024-09-12,2024-09-12,3,False
+T00201,2024-09-10,Site audit,Coordinator B,4,3,2024-09-14,2024-09-13,7,False
+T01000,2024-09-11,Stakeholder report,Coordinator B,4,7,2024-09-15,2024-09-18,3,False
+T00865,2024-09-11,Stakeholder report,Coordinator A,5,12,2024-09-16,2024-09-23,4,True
+T00609,2024-09-11,Site audit,Coordinator C,4,4,2024-09-15,2024-09-15,5,True
+T00433,2024-09-12,Procurement,Coordinator D,13,23,2024-09-25,2024-10-05,8,False
+T00708,2024-09-12,Stakeholder report,Coordinator A,3,6,2024-09-15,2024-09-18,5,False
+T00841,2024-09-12,Field deployment,Coordinator A,13,13,2024-09-25,2024-09-25,4,False
+T00521,2024-09-13,Site audit,Coordinator A,5,5,2024-09-18,2024-09-18,9,False
+T01060,2024-09-13,Stakeholder report,Coordinator B,4,4,2024-09-17,2024-09-17,6,False
+T00792,2024-09-14,Field deployment,Coordinator C,11,14,2024-09-25,2024-09-28,4,False
+T00604,2024-09-14,Training rollout,Coordinator D,10,10,2024-09-24,2024-09-24,2,False
+T00483,2024-09-14,Site audit,Coordinator D,5,4,2024-09-19,2024-09-18,3,False
+T00605,2024-09-14,Site audit,Coordinator D,6,6,2024-09-20,2024-09-20,4,False
+T00903,2024-09-14,Stakeholder report,Coordinator B,5,5,2024-09-19,2024-09-19,2,True
+T01040,2024-09-14,Procurement,Coordinator A,13,16,2024-09-27,2024-09-30,6,False
+T01431,2024-09-14,Site audit,Coordinator B,5,5,2024-09-19,2024-09-19,2,False
+T00688,2024-09-15,Field deployment,Coordinator A,12,11,2024-09-27,2024-09-26,5,False
+T00749,2024-09-15,Site audit,Coordinator C,6,5,2024-09-21,2024-09-20,5,False
+T00448,2024-09-15,Field deployment,Coordinator D,11,14,2024-09-26,2024-09-29,4,True
+T00656,2024-09-15,Training rollout,Coordinator A,5,4,2024-09-20,2024-09-19,4,False
+T01378,2024-09-16,Field deployment,Coordinator C,14,18,2024-09-30,2024-10-04,3,False
+T01255,2024-09-17,Site audit,Coordinator B,4,3,2024-09-21,2024-09-20,3,True
+T01293,2024-09-17,Training rollout,Coordinator D,7,6,2024-09-24,2024-09-23,4,False
+T00675,2024-09-18,Training rollout,Coordinator C,6,21,2024-09-24,2024-10-09,4,False
+T00058,2024-09-18,Field deployment,Coordinator A,6,6,2024-09-24,2024-09-24,4,False
+T01188,2024-09-19,Site audit,Coordinator C,4,4,2024-09-23,2024-09-23,4,False
+T00276,2024-09-19,Site audit,Coordinator D,5,11,2024-09-24,2024-09-30,5,False
+T01175,2024-09-20,Field deployment,Coordinator A,14,29,2024-10-04,2024-10-19,6,False
+T01233,2024-09-21,Training rollout,Coordinator C,6,6,2024-09-27,2024-09-27,5,True
+T00090,2024-09-21,Stakeholder report,Coordinator B,5,4,2024-09-26,2024-09-25,3,True
+T00694,2024-09-21,Procurement,Coordinator B,6,15,2024-09-27,2024-10-06,4,False
+T00600,2024-09-22,Stakeholder report,Coordinator C,4,3,2024-09-26,2024-09-25,4,False
+T00806,2024-09-22,Stakeholder report,Coordinator A,4,3,2024-09-26,2024-09-25,4,False
+T00801,2024-09-23,Site audit,Coordinator A,6,6,2024-09-29,2024-09-29,9,False
+T00085,2024-09-23,Training rollout,Coordinator A,6,8,2024-09-29,2024-10-01,3,False
+T01350,2024-09-24,Stakeholder report,Coordinator A,5,11,2024-09-29,2024-10-05,5,False
+T01397,2024-09-24,Procurement,Coordinator D,10,29,2024-10-04,2024-10-23,3,True
+T00795,2024-09-24,Stakeholder report,Coordinator C,5,5,2024-09-29,2024-09-29,5,True
+T00535,2024-09-24,Field deployment,Coordinator C,14,20,2024-10-08,2024-10-14,6,False
+T01171,2024-09-24,Stakeholder report,Coordinator C,4,8,2024-09-28,2024-10-02,3,False
+T00647,2024-09-25,Stakeholder report,Coordinator B,5,5,2024-09-30,2024-09-30,1,True
+T01241,2024-09-25,Procurement,Coordinator B,10,22,2024-10-05,2024-10-17,7,False
+T01016,2024-09-25,Procurement,Coordinator C,8,7,2024-10-03,2024-10-02,3,True
+T00376,2024-09-26,Procurement,Coordinator B,8,12,2024-10-04,2024-10-08,5,True
+T00983,2024-09-26,Procurement,Coordinator D,9,22,2024-10-05,2024-10-18,9,False
+T00771,2024-09-27,Procurement,Coordinator D,11,18,2024-10-08,2024-10-15,3,True
+T01182,2024-09-27,Procurement,Coordinator B,11,16,2024-10-08,2024-10-13,5,False
+T00424,2024-09-28,Field deployment,Coordinator D,9,17,2024-10-07,2024-10-15,2,False
+T00894,2024-09-28,Stakeholder report,Coordinator B,4,3,2024-10-02,2024-10-01,1,False
+T00974,2024-09-28,Site audit,Coordinator A,4,3,2024-10-02,2024-10-01,3,False
+T00830,2024-09-28,Training rollout,Coordinator B,8,17,2024-10-06,2024-10-15,6,False
+T00772,2024-09-29,Stakeholder report,Coordinator B,5,4,2024-10-04,2024-10-03,5,False
+T00231,2024-09-29,Stakeholder report,Coordinator C,5,5,2024-10-04,2024-10-04,4,False
+T00700,2024-09-29,Stakeholder report,Coordinator D,3,5,2024-10-02,2024-10-04,6,False
+T00796,2024-09-30,Stakeholder report,Coordinator A,4,3,2024-10-04,2024-10-03,5,False
+T00884,2024-09-30,Procurement,Coordinator A,5,5,2024-10-05,2024-10-05,3,False
+T00933,2024-09-30,Field deployment,Coordinator B,8,15,2024-10-08,2024-10-15,3,False
+T00329,2024-10-01,Stakeholder report,Coordinator A,5,13,2024-10-06,2024-10-14,2,False
+T00646,2024-10-01,Stakeholder report,Coordinator A,5,4,2024-10-06,2024-10-05,2,True
+T00456,2024-10-01,Stakeholder report,Coordinator B,4,3,2024-10-05,2024-10-04,5,False
+T00938,2024-10-02,Stakeholder report,Coordinator B,4,3,2024-10-06,2024-10-05,4,False
+T00839,2024-10-02,Site audit,Coordinator A,3,6,2024-10-05,2024-10-08,3,False
+T00813,2024-10-02,Stakeholder report,Coordinator D,3,3,2024-10-05,2024-10-05,7,False
+T00962,2024-10-03,Site audit,Coordinator D,5,10,2024-10-08,2024-10-13,4,False
+T01269,2024-10-03,Stakeholder report,Coordinator D,3,2,2024-10-06,2024-10-05,6,True
+T00548,2024-10-04,Site audit,Coordinator B,6,6,2024-10-10,2024-10-10,3,False
+T00934,2024-10-04,Procurement,Coordinator B,11,11,2024-10-15,2024-10-15,5,False
+T00677,2024-10-04,Stakeholder report,Coordinator B,3,2,2024-10-07,2024-10-06,4,True
+T00720,2024-10-05,Stakeholder report,Coordinator D,5,9,2024-10-10,2024-10-14,5,False
+T00125,2024-10-05,Procurement,Coordinator D,7,12,2024-10-12,2024-10-17,3,False
+T00208,2024-10-06,Stakeholder report,Coordinator C,3,6,2024-10-09,2024-10-12,6,False
+T00461,2024-10-06,Site audit,Coordinator A,5,4,2024-10-11,2024-10-10,4,False
+T01262,2024-10-06,Training rollout,Coordinator C,4,7,2024-10-10,2024-10-13,5,False
+T01442,2024-10-06,Procurement,Coordinator B,11,14,2024-10-17,2024-10-20,2,False
+T00211,2024-10-06,Site audit,Coordinator D,5,5,2024-10-11,2024-10-11,4,False
+T00524,2024-10-08,Field deployment,Coordinator C,14,20,2024-10-22,2024-10-28,2,False
+T00181,2024-10-08,Procurement,Coordinator A,11,23,2024-10-19,2024-10-31,8,False
+T01449,2024-10-08,Field deployment,Coordinator D,9,13,2024-10-17,2024-10-21,6,False
+T01217,2024-10-09,Procurement,Coordinator B,10,10,2024-10-19,2024-10-19,3,False
+T01332,2024-10-09,Stakeholder report,Coordinator A,3,6,2024-10-12,2024-10-15,6,False
+T00158,2024-10-10,Field deployment,Coordinator C,13,12,2024-10-23,2024-10-22,3,False
+T00526,2024-10-10,Stakeholder report,Coordinator B,4,4,2024-10-14,2024-10-14,4,False
+T01064,2024-10-10,Procurement,Coordinator A,14,20,2024-10-24,2024-10-30,4,False
+T00820,2024-10-11,Stakeholder report,Coordinator A,5,11,2024-10-16,2024-10-22,4,False
+T00558,2024-10-11,Procurement,Coordinator D,6,12,2024-10-17,2024-10-23,9,True
+T00257,2024-10-12,Training rollout,Coordinator A,6,5,2024-10-18,2024-10-17,3,True
+T01180,2024-10-12,Stakeholder report,Coordinator A,3,3,2024-10-15,2024-10-15,6,False
+T00518,2024-10-12,Site audit,Coordinator B,6,13,2024-10-18,2024-10-25,4,False
+T00250,2024-10-12,Field deployment,Coordinator A,14,29,2024-10-26,2024-11-10,6,False
+T01138,2024-10-13,Site audit,Coordinator D,2,7,2024-10-15,2024-10-20,3,False
+T01202,2024-10-13,Site audit,Coordinator A,5,5,2024-10-18,2024-10-18,2,False
+T01073,2024-10-13,Procurement,Coordinator D,9,13,2024-10-22,2024-10-26,6,False
+T00628,2024-10-14,Stakeholder report,Coordinator D,5,4,2024-10-19,2024-10-18,4,True
+T00807,2024-10-14,Field deployment,Coordinator D,14,13,2024-10-28,2024-10-27,4,False
+T01299,2024-10-14,Training rollout,Coordinator A,4,8,2024-10-18,2024-10-22,1,False
+T00454,2024-10-15,Field deployment,Coordinator B,13,20,2024-10-28,2024-11-04,5,False
+T00793,2024-10-15,Field deployment,Coordinator A,8,8,2024-10-23,2024-10-23,4,True
+T01288,2024-10-15,Stakeholder report,Coordinator D,4,3,2024-10-19,2024-10-18,7,False
+T00163,2024-10-15,Site audit,Coordinator A,5,13,2024-10-20,2024-10-28,4,True
+T01053,2024-10-16,Site audit,Coordinator B,4,4,2024-10-20,2024-10-20,3,False
+T00603,2024-10-16,Procurement,Coordinator C,9,15,2024-10-25,2024-10-31,5,False
+T00393,2024-10-16,Procurement,Coordinator A,5,4,2024-10-21,2024-10-20,4,False
+T01106,2024-10-17,Stakeholder report,Coordinator B,5,7,2024-10-22,2024-10-24,4,False
+T00203,2024-10-18,Training rollout,Coordinator A,8,8,2024-10-26,2024-10-26,5,False
+T01148,2024-10-19,Field deployment,Coordinator A,5,5,2024-10-24,2024-10-24,4,False
+T00367,2024-10-19,Stakeholder report,Coordinator A,6,15,2024-10-25,2024-11-03,5,False
+T00957,2024-10-20,Site audit,Coordinator D,6,12,2024-10-26,2024-11-01,3,False
+T01290,2024-10-21,Stakeholder report,Coordinator B,4,13,2024-10-25,2024-11-03,6,False
+T00156,2024-10-21,Training rollout,Coordinator B,8,14,2024-10-29,2024-11-04,3,True
+T00067,2024-10-21,Training rollout,Coordinator C,5,12,2024-10-26,2024-11-02,6,False
+T01184,2024-10-21,Field deployment,Coordinator A,9,15,2024-10-30,2024-11-05,5,False
+T00690,2024-10-23,Procurement,Coordinator D,9,9,2024-11-01,2024-11-01,2,False
+T00103,2024-10-23,Stakeholder report,Coordinator B,3,3,2024-10-26,2024-10-26,1,True
+T00638,2024-10-23,Stakeholder report,Coordinator B,5,7,2024-10-28,2024-10-30,4,False
+T01238,2024-10-23,Site audit,Coordinator A,5,5,2024-10-28,2024-10-28,3,False
+T00217,2024-10-23,Site audit,Coordinator B,3,3,2024-10-26,2024-10-26,7,False
+T01042,2024-10-24,Stakeholder report,Coordinator D,5,5,2024-10-29,2024-10-29,7,False
+T01256,2024-10-24,Site audit,Coordinator A,5,4,2024-10-29,2024-10-28,2,False
+T01135,2024-10-25,Procurement,Coordinator B,11,11,2024-11-05,2024-11-05,2,True
+T01006,2024-10-25,Procurement,Coordinator C,8,8,2024-11-02,2024-11-02,5,False
+T00316,2024-10-25,Field deployment,Coordinator D,12,21,2024-11-06,2024-11-15,7,False
+T01358,2024-10-25,Site audit,Coordinator D,8,16,2024-11-02,2024-11-10,2,False
+T00939,2024-10-26,Stakeholder report,Coordinator A,3,3,2024-10-29,2024-10-29,4,False
+T01326,2024-10-27,Procurement,Coordinator D,7,15,2024-11-03,2024-11-11,5,False
+T00794,2024-10-27,Site audit,Coordinator B,4,4,2024-10-31,2024-10-31,4,False
+T00097,2024-10-27,Field deployment,Coordinator A,6,13,2024-11-02,2024-11-09,3,False
+T01377,2024-10-28,Site audit,Coordinator D,5,13,2024-11-02,2024-11-10,2,False
+T00317,2024-10-28,Stakeholder report,Coordinator D,5,17,2024-11-02,2024-11-14,4,False
+T00557,2024-10-28,Site audit,Coordinator D,6,5,2024-11-03,2024-11-02,6,True
+T01055,2024-10-28,Site audit,Coordinator A,9,15,2024-11-06,2024-11-12,2,False
+T01206,2024-10-28,Stakeholder report,Coordinator B,4,4,2024-11-01,2024-11-01,7,False
+T01129,2024-10-29,Procurement,Coordinator C,5,5,2024-11-03,2024-11-03,5,True
+T00355,2024-10-29,Site audit,Coordinator C,5,11,2024-11-03,2024-11-09,5,False
+T00527,2024-10-30,Procurement,Coordinator D,5,10,2024-11-04,2024-11-09,2,False
+T00668,2024-10-31,Stakeholder report,Coordinator B,6,5,2024-11-06,2024-11-05,3,False
+T00763,2024-11-01,Site audit,Coordinator C,4,16,2024-11-05,2024-11-17,3,True
+T00706,2024-11-01,Site audit,Coordinator D,6,5,2024-11-07,2024-11-06,3,False
+T01243,2024-11-01,Stakeholder report,Coordinator C,3,6,2024-11-04,2024-11-07,3,False
+T01305,2024-11-02,Site audit,Coordinator B,6,6,2024-11-08,2024-11-08,6,False
+T00616,2024-11-02,Training rollout,Coordinator B,8,20,2024-11-10,2024-11-22,2,False
+T01319,2024-11-02,Site audit,Coordinator C,5,9,2024-11-07,2024-11-11,2,False
+T00298,2024-11-02,Procurement,Coordinator D,11,20,2024-11-13,2024-11-22,5,False
+T00268,2024-11-02,Field deployment,Coordinator D,12,11,2024-11-14,2024-11-13,2,False
+T00419,2024-11-02,Stakeholder report,Coordinator C,5,5,2024-11-07,2024-11-07,1,False
+T00577,2024-11-03,Training rollout,Coordinator B,9,9,2024-11-12,2024-11-12,6,True
+T00464,2024-11-03,Site audit,Coordinator D,6,11,2024-11-09,2024-11-14,4,True
+T00755,2024-11-03,Stakeholder report,Coordinator D,5,8,2024-11-08,2024-11-11,8,False
+T00511,2024-11-04,Site audit,Coordinator D,4,3,2024-11-08,2024-11-07,4,True
+T00468,2024-11-04,Site audit,Coordinator A,5,11,2024-11-09,2024-11-15,5,False
+T00314,2024-11-04,Field deployment,Coordinator C,9,9,2024-11-13,2024-11-13,5,True
+T01027,2024-11-04,Site audit,Coordinator B,4,4,2024-11-08,2024-11-08,8,False
+T00707,2024-11-04,Stakeholder report,Coordinator A,3,13,2024-11-07,2024-11-17,5,False
+T00271,2024-11-05,Field deployment,Coordinator D,16,27,2024-11-21,2024-12-02,3,False
+T00972,2024-11-06,Stakeholder report,Coordinator C,4,3,2024-11-10,2024-11-09,2,False
+T00320,2024-11-06,Training rollout,Coordinator A,5,14,2024-11-11,2024-11-20,6,False
+T00837,2024-11-06,Stakeholder report,Coordinator B,2,6,2024-11-08,2024-11-12,4,False
+T00364,2024-11-07,Procurement,Coordinator B,5,9,2024-11-12,2024-11-16,8,False
+T00627,2024-11-07,Stakeholder report,Coordinator C,5,9,2024-11-12,2024-11-16,4,False
+T00699,2024-11-08,Field deployment,Coordinator C,11,20,2024-11-19,2024-11-28,7,False
+T01341,2024-11-08,Stakeholder report,Coordinator A,4,3,2024-11-12,2024-11-11,2,False
+T00165,2024-11-08,Training rollout,Coordinator C,3,7,2024-11-11,2024-11-15,5,False
+T00144,2024-11-08,Training rollout,Coordinator B,8,8,2024-11-16,2024-11-16,6,False
+T00122,2024-11-08,Procurement,Coordinator D,12,32,2024-11-20,2024-12-10,6,True
+T00519,2024-11-08,Training rollout,Coordinator A,8,10,2024-11-16,2024-11-18,3,False
+T00011,2024-11-09,Field deployment,Coordinator B,14,53,2024-11-23,2025-01-01,3,False
+T01294,2024-11-09,Training rollout,Coordinator D,3,2,2024-11-12,2024-11-11,6,False
+T01425,2024-11-09,Procurement,Coordinator B,10,9,2024-11-19,2024-11-18,5,False
+T00871,2024-11-09,Stakeholder report,Coordinator D,4,4,2024-11-13,2024-11-13,5,False
+T00007,2024-11-10,Field deployment,Coordinator D,8,17,2024-11-18,2024-11-27,4,False
+T01399,2024-11-10,Site audit,Coordinator A,4,4,2024-11-14,2024-11-14,8,False
+T01077,2024-11-10,Site audit,Coordinator A,6,10,2024-11-16,2024-11-20,4,False
+T00372,2024-11-11,Stakeholder report,Coordinator B,3,9,2024-11-14,2024-11-20,4,False
+T01112,2024-11-11,Site audit,Coordinator D,6,10,2024-11-17,2024-11-21,4,False
+T00911,2024-11-11,Site audit,Coordinator A,6,5,2024-11-17,2024-11-16,7,False
+T00048,2024-11-11,Field deployment,Coordinator A,13,24,2024-11-24,2024-12-05,6,False
+T01043,2024-11-11,Field deployment,Coordinator C,9,21,2024-11-20,2024-12-02,4,False
+T00581,2024-11-11,Procurement,Coordinator A,9,15,2024-11-20,2024-11-26,4,False
+T01373,2024-11-12,Stakeholder report,Coordinator C,4,7,2024-11-16,2024-11-19,2,False
+T01150,2024-11-12,Site audit,Coordinator D,3,3,2024-11-15,2024-11-15,2,False
+T01409,2024-11-12,Procurement,Coordinator A,11,18,2024-11-23,2024-11-30,4,False
+T00685,2024-11-13,Training rollout,Coordinator A,8,8,2024-11-21,2024-11-21,3,False
+T00876,2024-11-13,Site audit,Coordinator A,6,12,2024-11-19,2024-11-25,5,True
+T01080,2024-11-13,Field deployment,Coordinator C,13,36,2024-11-26,2024-12-19,4,True
+T00481,2024-11-14,Site audit,Coordinator C,5,4,2024-11-19,2024-11-18,3,False
+T00917,2024-11-14,Stakeholder report,Coordinator C,4,4,2024-11-18,2024-11-18,9,False
+T00100,2024-11-14,Stakeholder report,Coordinator A,4,3,2024-11-18,2024-11-17,4,True
+T00997,2024-11-14,Training rollout,Coordinator C,5,5,2024-11-19,2024-11-19,5,False
+T00732,2024-11-15,Training rollout,Coordinator C,6,8,2024-11-21,2024-11-23,7,False
+T01039,2024-11-15,Training rollout,Coordinator A,5,5,2024-11-20,2024-11-20,2,False
+T01236,2024-11-15,Field deployment,Coordinator A,9,12,2024-11-24,2024-11-27,4,False
+T00441,2024-11-16,Site audit,Coordinator D,4,4,2024-11-20,2024-11-20,4,False
+T00833,2024-11-17,Procurement,Coordinator D,5,7,2024-11-22,2024-11-24,8,False
+T01227,2024-11-17,Procurement,Coordinator A,12,24,2024-11-29,2024-12-11,4,False
+T00233,2024-11-18,Stakeholder report,Coordinator D,4,10,2024-11-22,2024-11-28,4,False
+T00137,2024-11-18,Field deployment,Coordinator A,18,49,2024-12-06,2025-01-06,4,False
+T00785,2024-11-18,Site audit,Coordinator C,4,4,2024-11-22,2024-11-22,4,False
+T01384,2024-11-18,Training rollout,Coordinator B,6,14,2024-11-24,2024-12-02,6,False
+T01396,2024-11-18,Site audit,Coordinator C,4,3,2024-11-22,2024-11-21,5,False
+T00247,2024-11-19,Training rollout,Coordinator D,8,12,2024-11-27,2024-12-01,3,True
+T00351,2024-11-19,Stakeholder report,Coordinator C,2,1,2024-11-21,2024-11-20,1,False
+T01173,2024-11-19,Training rollout,Coordinator C,6,6,2024-11-25,2024-11-25,2,False
+T00508,2024-11-19,Stakeholder report,Coordinator A,4,8,2024-11-23,2024-11-27,4,False
+T00586,2024-11-21,Stakeholder report,Coordinator D,4,4,2024-11-25,2024-11-25,6,False
+T01437,2024-11-22,Site audit,Coordinator A,3,3,2024-11-25,2024-11-25,4,False
+T00552,2024-11-23,Site audit,Coordinator A,3,3,2024-11-26,2024-11-26,4,True
+T01410,2024-11-23,Procurement,Coordinator A,9,9,2024-12-02,2024-12-02,5,False
+T01047,2024-11-23,Training rollout,Coordinator D,6,15,2024-11-29,2024-12-08,3,False
+T00377,2024-11-23,Site audit,Coordinator A,5,4,2024-11-28,2024-11-27,5,False
+T01366,2024-11-24,Field deployment,Coordinator D,10,10,2024-12-04,2024-12-04,4,False
+T00537,2024-11-24,Training rollout,Coordinator D,6,5,2024-11-30,2024-11-29,3,True
+T01210,2024-11-25,Stakeholder report,Coordinator D,5,5,2024-11-30,2024-11-30,4,False
+T00664,2024-11-28,Site audit,Coordinator B,3,10,2024-12-01,2024-12-08,3,True
+T01111,2024-11-28,Stakeholder report,Coordinator B,4,9,2024-12-02,2024-12-07,4,False
+T00753,2024-11-29,Training rollout,Coordinator A,8,11,2024-12-07,2024-12-10,6,False
+T00663,2024-11-29,Stakeholder report,Coordinator D,3,7,2024-12-02,2024-12-06,5,True
+T01139,2024-11-29,Site audit,Coordinator A,8,14,2024-12-07,2024-12-13,6,False
+T00041,2024-11-29,Training rollout,Coordinator B,10,17,2024-12-09,2024-12-16,5,False
+T00166,2024-11-30,Field deployment,Coordinator D,11,17,2024-12-11,2024-12-17,2,False
+T00818,2024-11-30,Stakeholder report,Coordinator C,2,2,2024-12-02,2024-12-02,3,False
+T01051,2024-12-02,Training rollout,Coordinator B,8,16,2024-12-10,2024-12-18,6,False
+T00920,2024-12-02,Field deployment,Coordinator C,9,9,2024-12-11,2024-12-11,1,False
+T00460,2024-12-02,Field deployment,Coordinator D,15,22,2024-12-17,2024-12-24,3,False
+T01308,2024-12-02,Field deployment,Coordinator D,8,20,2024-12-10,2024-12-22,5,True
+T01121,2024-12-02,Training rollout,Coordinator D,5,12,2024-12-07,2024-12-14,6,False
+T00803,2024-12-04,Procurement,Coordinator C,11,11,2024-12-15,2024-12-15,3,False
+T01330,2024-12-04,Field deployment,Coordinator C,15,36,2024-12-19,2025-01-09,2,False
+T01131,2024-12-04,Procurement,Coordinator B,9,13,2024-12-13,2024-12-17,4,False
+T00544,2024-12-05,Training rollout,Coordinator D,8,11,2024-12-13,2024-12-16,4,False
+T00905,2024-12-05,Training rollout,Coordinator A,9,9,2024-12-14,2024-12-14,5,False
+T01422,2024-12-05,Stakeholder report,Coordinator A,4,8,2024-12-09,2024-12-13,3,False
+T00734,2024-12-06,Stakeholder report,Coordinator A,3,7,2024-12-09,2024-12-13,2,False
+T00575,2024-12-06,Field deployment,Coordinator C,15,45,2024-12-21,2025-01-20,2,False
+T01205,2024-12-06,Training rollout,Coordinator C,5,4,2024-12-11,2024-12-10,3,False
+T01124,2024-12-07,Training rollout,Coordinator D,7,7,2024-12-14,2024-12-14,5,False
+T01010,2024-12-07,Stakeholder report,Coordinator C,4,3,2024-12-11,2024-12-10,5,False
+T00422,2024-12-07,Stakeholder report,Coordinator C,3,2,2024-12-10,2024-12-09,3,False
+T01222,2024-12-07,Field deployment,Coordinator D,8,12,2024-12-15,2024-12-19,7,False
+T00786,2024-12-07,Field deployment,Coordinator D,11,11,2024-12-18,2024-12-18,1,False
+T00540,2024-12-08,Field deployment,Coordinator A,10,10,2024-12-18,2024-12-18,5,False
+T00406,2024-12-08,Procurement,Coordinator B,11,11,2024-12-19,2024-12-19,4,False
+T00038,2024-12-08,Training rollout,Coordinator D,4,7,2024-12-12,2024-12-15,2,False
+T00580,2024-12-09,Procurement,Coordinator B,8,17,2024-12-17,2024-12-26,6,True
+T01265,2024-12-09,Stakeholder report,Coordinator B,4,4,2024-12-13,2024-12-13,3,False
+T01062,2024-12-09,Stakeholder report,Coordinator A,4,10,2024-12-13,2024-12-19,6,False
+T00988,2024-12-10,Field deployment,Coordinator D,13,17,2024-12-23,2024-12-27,5,False
+T00368,2024-12-10,Field deployment,Coordinator C,14,25,2024-12-24,2025-01-04,3,False
+T01226,2024-12-11,Stakeholder report,Coordinator A,6,5,2024-12-17,2024-12-16,4,False
+T01407,2024-12-11,Training rollout,Coordinator A,7,12,2024-12-18,2024-12-23,4,False
+T01424,2024-12-11,Field deployment,Coordinator A,15,30,2024-12-26,2025-01-10,7,False
+T01394,2024-12-11,Stakeholder report,Coordinator A,4,3,2024-12-15,2024-12-14,3,False
+T00752,2024-12-12,Field deployment,Coordinator C,11,10,2024-12-23,2024-12-22,5,False
+T00684,2024-12-12,Stakeholder report,Coordinator B,3,2,2024-12-15,2024-12-14,4,False
+T00111,2024-12-12,Stakeholder report,Coordinator A,2,4,2024-12-14,2024-12-16,4,False
+T00516,2024-12-13,Training rollout,Coordinator A,7,6,2024-12-20,2024-12-19,5,False
+T00037,2024-12-14,Site audit,Coordinator B,5,4,2024-12-19,2024-12-18,4,False
+T01354,2024-12-14,Procurement,Coordinator D,12,12,2024-12-26,2024-12-26,5,True
+T00272,2024-12-15,Training rollout,Coordinator A,9,8,2024-12-24,2024-12-23,4,False
+T00022,2024-12-15,Site audit,Coordinator C,8,19,2024-12-23,2025-01-03,5,False
+T00808,2024-12-15,Field deployment,Coordinator C,13,31,2024-12-28,2025-01-15,1,False
+T00978,2024-12-15,Training rollout,Coordinator A,5,4,2024-12-20,2024-12-19,3,False
+T00853,2024-12-15,Field deployment,Coordinator A,13,23,2024-12-28,2025-01-07,3,False
+T00430,2024-12-15,Field deployment,Coordinator C,12,26,2024-12-27,2025-01-10,2,False
+T01094,2024-12-16,Procurement,Coordinator D,13,12,2024-12-29,2024-12-28,3,False
+T00444,2024-12-16,Stakeholder report,Coordinator B,6,5,2024-12-22,2024-12-21,5,False
+T01245,2024-12-16,Training rollout,Coordinator D,9,9,2024-12-25,2024-12-25,7,False
+T00230,2024-12-17,Training rollout,Coordinator B,6,6,2024-12-23,2024-12-23,6,False
+T01218,2024-12-17,Stakeholder report,Coordinator A,5,5,2024-12-22,2024-12-22,4,False
+T00598,2024-12-17,Procurement,Coordinator D,8,12,2024-12-25,2024-12-29,5,False
+T00680,2024-12-17,Stakeholder report,Coordinator C,3,3,2024-12-20,2024-12-20,2,True
+T00506,2024-12-17,Training rollout,Coordinator C,10,32,2024-12-27,2025-01-18,3,True
+T00622,2024-12-18,Procurement,Coordinator B,8,15,2024-12-26,2025-01-02,4,False
+T01132,2024-12-18,Field deployment,Coordinator C,15,29,2025-01-02,2025-01-16,3,False
+T00363,2024-12-19,Field deployment,Coordinator C,15,25,2025-01-03,2025-01-13,5,False
+T00775,2024-12-20,Site audit,Coordinator D,6,10,2024-12-26,2024-12-30,1,False
+T00084,2024-12-21,Stakeholder report,Coordinator A,5,4,2024-12-26,2024-12-25,4,False
+T00238,2024-12-21,Procurement,Coordinator B,5,13,2024-12-26,2025-01-03,3,False
+T00846,2024-12-21,Site audit,Coordinator A,7,7,2024-12-28,2024-12-28,5,False
+T00811,2024-12-21,Stakeholder report,Coordinator C,4,11,2024-12-25,2025-01-01,4,False
+T00205,2024-12-21,Stakeholder report,Coordinator B,4,9,2024-12-25,2024-12-30,4,False
+T00966,2024-12-21,Stakeholder report,Coordinator B,3,9,2024-12-24,2024-12-30,3,False
+T00829,2024-12-22,Training rollout,Coordinator C,9,14,2024-12-31,2025-01-05,5,False
+T01275,2024-12-22,Site audit,Coordinator D,5,15,2024-12-27,2025-01-06,3,False
+T01025,2024-12-23,Procurement,Coordinator D,7,6,2024-12-30,2024-12-29,5,True
+T00835,2024-12-23,Stakeholder report,Coordinator A,3,3,2024-12-26,2024-12-26,5,True
+T00900,2024-12-23,Site audit,Coordinator D,6,12,2024-12-29,2025-01-04,7,False
+T00050,2024-12-23,Site audit,Coordinator D,4,4,2024-12-27,2024-12-27,4,True
+T00330,2024-12-24,Site audit,Coordinator B,5,16,2024-12-29,2025-01-09,4,False
+T01364,2024-12-24,Site audit,Coordinator D,5,5,2024-12-29,2024-12-29,4,False
+T00649,2024-12-25,Site audit,Coordinator C,3,2,2024-12-28,2024-12-27,3,True
+T00157,2024-12-25,Field deployment,Coordinator D,9,9,2025-01-03,2025-01-03,4,True
+T00325,2024-12-26,Field deployment,Coordinator C,14,32,2025-01-09,2025-01-27,8,False
+T00874,2024-12-26,Training rollout,Coordinator C,5,10,2024-12-31,2025-01-05,2,False
+T01102,2024-12-26,Field deployment,Coordinator B,8,27,2025-01-03,2025-01-22,6,False
+T00373,2024-12-26,Stakeholder report,Coordinator A,5,15,2024-12-31,2025-01-10,2,True
+T00149,2024-12-26,Field deployment,Coordinator D,11,18,2025-01-06,2025-01-13,8,False
+T00878,2024-12-26,Site audit,Coordinator D,5,4,2024-12-31,2024-12-30,6,False
+T01219,2024-12-27,Procurement,Coordinator C,7,7,2025-01-03,2025-01-03,5,False
+T00662,2024-12-27,Training rollout,Coordinator A,6,9,2025-01-02,2025-01-05,2,False
+T00150,2024-12-27,Site audit,Coordinator D,4,7,2024-12-31,2025-01-03,3,False
+T00936,2024-12-28,Training rollout,Coordinator D,7,11,2025-01-04,2025-01-08,6,False
+T00274,2024-12-28,Stakeholder report,Coordinator A,4,4,2025-01-01,2025-01-01,3,False
+T00897,2024-12-28,Procurement,Coordinator B,8,7,2025-01-05,2025-01-04,3,False
+T01066,2024-12-28,Field deployment,Coordinator D,15,15,2025-01-12,2025-01-12,5,False
+T01041,2024-12-28,Procurement,Coordinator B,14,21,2025-01-11,2025-01-18,4,True
+T00858,2024-12-29,Field deployment,Coordinator A,12,20,2025-01-10,2025-01-18,4,True
+T00475,2024-12-29,Training rollout,Coordinator D,8,8,2025-01-06,2025-01-06,6,True
+T00501,2024-12-29,Field deployment,Coordinator A,18,18,2025-01-16,2025-01-16,5,True
+T00072,2024-12-29,Site audit,Coordinator B,6,6,2025-01-04,2025-01-04,4,True
+T01287,2024-12-30,Stakeholder report,Coordinator B,5,12,2025-01-04,2025-01-11,3,False
+T00175,2024-12-30,Procurement,Coordinator A,9,8,2025-01-08,2025-01-07,2,False
+T00942,2024-12-30,Site audit,Coordinator D,5,4,2025-01-04,2025-01-03,4,True
+T00538,2024-12-31,Stakeholder report,Coordinator D,5,8,2025-01-05,2025-01-08,3,False
+T00573,2024-12-31,Stakeholder report,Coordinator A,4,4,2025-01-04,2025-01-04,2,False
+T00383,2024-12-31,Field deployment,Coordinator D,10,13,2025-01-10,2025-01-13,6,False
+T00766,2025-01-02,Field deployment,Coordinator A,8,13,2025-01-10,2025-01-15,4,False
+T00155,2025-01-03,Procurement,Coordinator D,9,23,2025-01-12,2025-01-26,4,False
+T00667,2025-01-03,Stakeholder report,Coordinator A,3,2,2025-01-06,2025-01-05,7,False
+T01434,2025-01-03,Procurement,Coordinator D,11,19,2025-01-14,2025-01-22,4,False
+T00455,2025-01-04,Procurement,Coordinator D,6,5,2025-01-10,2025-01-09,5,False
+T00222,2025-01-04,Field deployment,Coordinator D,14,17,2025-01-18,2025-01-21,3,False
+T01303,2025-01-05,Stakeholder report,Coordinator B,4,4,2025-01-09,2025-01-09,5,False
+T00153,2025-01-05,Training rollout,Coordinator B,3,2,2025-01-08,2025-01-07,4,False
+T00824,2025-01-06,Field deployment,Coordinator A,9,9,2025-01-15,2025-01-15,2,False
+T01003,2025-01-06,Procurement,Coordinator C,10,14,2025-01-16,2025-01-20,2,False
+T01018,2025-01-07,Training rollout,Coordinator B,4,4,2025-01-11,2025-01-11,2,False
+T01432,2025-01-07,Site audit,Coordinator B,5,5,2025-01-12,2025-01-12,1,False
+T00637,2025-01-07,Procurement,Coordinator B,8,8,2025-01-15,2025-01-15,2,False
+T00278,2025-01-08,Training rollout,Coordinator C,6,5,2025-01-14,2025-01-13,1,False
+T00902,2025-01-08,Site audit,Coordinator B,5,4,2025-01-13,2025-01-12,1,False
+T01427,2025-01-09,Site audit,Coordinator D,5,4,2025-01-14,2025-01-13,4,False
+T00856,2025-01-09,Stakeholder report,Coordinator A,3,2,2025-01-12,2025-01-11,2,False
+T00094,2025-01-09,Stakeholder report,Coordinator B,6,6,2025-01-15,2025-01-15,4,False
+T00086,2025-01-10,Procurement,Coordinator A,9,15,2025-01-19,2025-01-25,1,False
+T00928,2025-01-11,Field deployment,Coordinator C,15,18,2025-01-26,2025-01-29,1,False
+T00816,2025-01-11,Field deployment,Coordinator B,10,9,2025-01-21,2025-01-20,2,False
+T01032,2025-01-11,Site audit,Coordinator C,6,6,2025-01-17,2025-01-17,2,False
+T01162,2025-01-11,Site audit,Coordinator C,7,7,2025-01-18,2025-01-18,2,False
+T00705,2025-01-12,Site audit,Coordinator D,5,9,2025-01-17,2025-01-21,1,True
+T00889,2025-01-12,Site audit,Coordinator D,7,7,2025-01-19,2025-01-19,3,False
+T00564,2025-01-12,Procurement,Coordinator A,8,16,2025-01-20,2025-01-28,2,False
+T00764,2025-01-13,Site audit,Coordinator A,4,8,2025-01-17,2025-01-21,2,False
+T00895,2025-01-14,Field deployment,Coordinator C,11,10,2025-01-25,2025-01-24,5,False
+T01015,2025-01-14,Stakeholder report,Coordinator C,5,5,2025-01-19,2025-01-19,3,False
+T00088,2025-01-15,Procurement,Coordinator A,9,14,2025-01-24,2025-01-29,1,False
+T00439,2025-01-16,Procurement,Coordinator D,9,12,2025-01-25,2025-01-28,3,False
+T00178,2025-01-16,Stakeholder report,Coordinator A,6,10,2025-01-22,2025-01-26,2,False
+T01201,2025-01-16,Procurement,Coordinator B,8,7,2025-01-24,2025-01-23,3,False
+T00625,2025-01-16,Stakeholder report,Coordinator D,4,3,2025-01-20,2025-01-19,1,False
+T00356,2025-01-16,Procurement,Coordinator C,9,8,2025-01-25,2025-01-24,1,False
+T00740,2025-01-17,Field deployment,Coordinator D,12,16,2025-01-29,2025-02-02,1,False
+T01197,2025-01-17,Field deployment,Coordinator C,8,12,2025-01-25,2025-01-29,5,False
+T00502,2025-01-17,Field deployment,Coordinator B,8,7,2025-01-25,2025-01-24,4,False
+T01367,2025-01-17,Training rollout,Coordinator B,8,7,2025-01-25,2025-01-24,3,False
+T00626,2025-01-17,Site audit,Coordinator A,7,6,2025-01-24,2025-01-23,2,False
+T00643,2025-01-17,Field deployment,Coordinator C,13,22,2025-01-30,2025-02-08,2,True
+T01223,2025-01-18,Site audit,Coordinator B,5,4,2025-01-23,2025-01-22,3,False
+T00129,2025-01-18,Procurement,Coordinator C,11,16,2025-01-29,2025-02-03,2,False
+T00918,2025-01-18,Stakeholder report,Coordinator C,4,4,2025-01-22,2025-01-22,4,False
+T00578,2025-01-18,Procurement,Coordinator C,9,12,2025-01-27,2025-01-30,4,False
+T01381,2025-01-19,Training rollout,Coordinator C,10,9,2025-01-29,2025-01-28,1,False
+T00331,2025-01-19,Stakeholder report,Coordinator C,5,4,2025-01-24,2025-01-23,2,False
+T01071,2025-01-19,Stakeholder report,Coordinator B,3,3,2025-01-22,2025-01-22,2,True
+T00673,2025-01-21,Procurement,Coordinator B,6,11,2025-01-27,2025-02-01,2,False
+T01234,2025-01-22,Site audit,Coordinator D,6,5,2025-01-28,2025-01-27,1,False
+T00727,2025-01-22,Stakeholder report,Coordinator B,2,4,2025-01-24,2025-01-26,3,False
+T00431,2025-01-23,Stakeholder report,Coordinator B,3,2,2025-01-26,2025-01-25,4,False
+T00539,2025-01-23,Training rollout,Coordinator A,6,8,2025-01-29,2025-01-31,2,False
+T00901,2025-01-23,Stakeholder report,Coordinator C,5,9,2025-01-28,2025-02-01,2,False
+T00651,2025-01-23,Training rollout,Coordinator C,8,11,2025-01-31,2025-02-03,3,False
+T00151,2025-01-24,Training rollout,Coordinator D,7,6,2025-01-31,2025-01-30,2,False
+T00686,2025-01-25,Stakeholder report,Coordinator D,3,2,2025-01-28,2025-01-27,4,False
+T01239,2025-01-26,Procurement,Coordinator C,8,7,2025-02-03,2025-02-02,1,False
+T01105,2025-01-27,Stakeholder report,Coordinator D,4,6,2025-01-31,2025-02-02,4,False
+T00641,2025-01-27,Site audit,Coordinator A,6,5,2025-02-02,2025-02-01,3,False
+T00112,2025-01-27,Training rollout,Coordinator C,6,6,2025-02-02,2025-02-02,2,False
+T00169,2025-01-28,Training rollout,Coordinator C,4,7,2025-02-01,2025-02-04,2,False
+T00888,2025-01-28,Stakeholder report,Coordinator C,2,1,2025-01-30,2025-01-29,2,False
+T01098,2025-01-28,Field deployment,Coordinator C,15,19,2025-02-12,2025-02-16,2,False
+T01419,2025-01-29,Stakeholder report,Coordinator C,5,10,2025-02-03,2025-02-08,1,False
+T01349,2025-01-29,Field deployment,Coordinator B,13,13,2025-02-11,2025-02-11,1,False
+T00307,2025-01-30,Field deployment,Coordinator B,15,15,2025-02-14,2025-02-14,4,False
+T01075,2025-01-30,Training rollout,Coordinator A,5,7,2025-02-04,2025-02-06,1,False
+T00715,2025-01-31,Stakeholder report,Coordinator B,4,4,2025-02-04,2025-02-04,3,False
+T01285,2025-01-31,Field deployment,Coordinator D,11,14,2025-02-11,2025-02-14,5,False
+T01028,2025-01-31,Field deployment,Coordinator B,18,23,2025-02-18,2025-02-23,2,False
+T00160,2025-01-31,Training rollout,Coordinator D,8,7,2025-02-08,2025-02-07,2,False
+T01030,2025-01-31,Training rollout,Coordinator C,8,10,2025-02-08,2025-02-10,4,False
+T00842,2025-01-31,Stakeholder report,Coordinator D,5,7,2025-02-05,2025-02-07,3,False
+T00919,2025-01-31,Stakeholder report,Coordinator C,4,4,2025-02-04,2025-02-04,3,False
+T00071,2025-02-01,Stakeholder report,Coordinator B,5,5,2025-02-06,2025-02-06,1,False
+T00500,2025-02-01,Procurement,Coordinator A,11,10,2025-02-12,2025-02-11,1,False
+T00619,2025-02-02,Procurement,Coordinator D,7,11,2025-02-09,2025-02-13,3,False
+T00362,2025-02-02,Stakeholder report,Coordinator B,1,3,2025-02-03,2025-02-05,4,False
+T01268,2025-02-02,Procurement,Coordinator D,11,11,2025-02-13,2025-02-13,2,False
+T01237,2025-02-02,Stakeholder report,Coordinator C,4,3,2025-02-06,2025-02-05,4,False
+T00924,2025-02-04,Procurement,Coordinator C,13,25,2025-02-17,2025-03-01,2,False
+T00164,2025-02-04,Site audit,Coordinator B,5,4,2025-02-09,2025-02-08,3,False
+T01253,2025-02-05,Stakeholder report,Coordinator C,2,1,2025-02-07,2025-02-06,2,False
+T00791,2025-02-05,Procurement,Coordinator C,10,12,2025-02-15,2025-02-17,3,False
+T00177,2025-02-05,Stakeholder report,Coordinator D,1,4,2025-02-06,2025-02-09,3,False
+T00195,2025-02-05,Field deployment,Coordinator A,14,26,2025-02-19,2025-03-03,2,False
+T01276,2025-02-06,Procurement,Coordinator A,8,11,2025-02-14,2025-02-17,4,False
+T00655,2025-02-06,Field deployment,Coordinator B,10,13,2025-02-16,2025-02-19,2,False
+T01314,2025-02-06,Site audit,Coordinator B,7,11,2025-02-13,2025-02-17,2,False
+T00831,2025-02-08,Stakeholder report,Coordinator D,3,3,2025-02-11,2025-02-11,3,False
+T01115,2025-02-08,Field deployment,Coordinator D,14,14,2025-02-22,2025-02-22,2,False
+T00398,2025-02-09,Training rollout,Coordinator C,6,6,2025-02-15,2025-02-15,1,False
+T00713,2025-02-09,Field deployment,Coordinator D,11,10,2025-02-20,2025-02-19,2,False
+T00252,2025-02-09,Procurement,Coordinator D,9,9,2025-02-18,2025-02-18,3,False
+T00994,2025-02-09,Field deployment,Coordinator A,7,11,2025-02-16,2025-02-20,3,False
+T00043,2025-02-10,Site audit,Coordinator C,2,1,2025-02-12,2025-02-11,4,False
+T00324,2025-02-10,Stakeholder report,Coordinator D,4,3,2025-02-14,2025-02-13,5,False
+T00221,2025-02-11,Field deployment,Coordinator A,17,17,2025-02-28,2025-02-28,3,False
+T01315,2025-02-11,Field deployment,Coordinator C,12,19,2025-02-23,2025-03-02,4,False
+T00429,2025-02-12,Field deployment,Coordinator C,10,10,2025-02-22,2025-02-22,1,False
+T01174,2025-02-12,Stakeholder report,Coordinator C,4,8,2025-02-16,2025-02-20,2,False
+T00739,2025-02-13,Stakeholder report,Coordinator C,3,3,2025-02-16,2025-02-16,2,False
+T00908,2025-02-13,Stakeholder report,Coordinator D,4,3,2025-02-17,2025-02-16,4,False
+T01329,2025-02-13,Procurement,Coordinator C,6,5,2025-02-19,2025-02-18,4,False
+T01286,2025-02-14,Site audit,Coordinator C,5,5,2025-02-19,2025-02-19,1,False
+T01085,2025-02-14,Field deployment,Coordinator C,12,12,2025-02-26,2025-02-26,2,False
+T00027,2025-02-14,Stakeholder report,Coordinator A,5,4,2025-02-19,2025-02-18,3,False
+T01249,2025-02-15,Site audit,Coordinator B,5,4,2025-02-20,2025-02-19,2,False
+T00819,2025-02-15,Training rollout,Coordinator B,6,5,2025-02-21,2025-02-20,2,False
+T00759,2025-02-15,Field deployment,Coordinator C,7,10,2025-02-22,2025-02-25,2,False
+T00182,2025-02-16,Field deployment,Coordinator A,16,15,2025-03-04,2025-03-03,2,False
+T01284,2025-02-16,Training rollout,Coordinator C,6,5,2025-02-22,2025-02-21,4,False
+T01168,2025-02-16,Site audit,Coordinator D,5,5,2025-02-21,2025-02-21,3,False
+T00989,2025-02-17,Stakeholder report,Coordinator C,4,3,2025-02-21,2025-02-20,3,False
+T00440,2025-02-17,Field deployment,Coordinator A,8,13,2025-02-25,2025-03-02,1,False
+T00701,2025-02-17,Stakeholder report,Coordinator B,4,3,2025-02-21,2025-02-20,3,False
+T00517,2025-02-18,Field deployment,Coordinator B,12,11,2025-03-02,2025-03-01,4,False
+T01095,2025-02-18,Stakeholder report,Coordinator C,3,2,2025-02-21,2025-02-20,3,False
+T01389,2025-02-18,Field deployment,Coordinator C,11,11,2025-03-01,2025-03-01,3,False
+T00105,2025-02-18,Stakeholder report,Coordinator C,3,7,2025-02-21,2025-02-25,2,False
+T00389,2025-02-18,Stakeholder report,Coordinator C,4,6,2025-02-22,2025-02-24,4,False
+T01297,2025-02-19,Field deployment,Coordinator D,15,22,2025-03-06,2025-03-13,1,False
+T00733,2025-02-19,Training rollout,Coordinator D,7,10,2025-02-26,2025-03-01,3,False
+T00679,2025-02-19,Training rollout,Coordinator D,8,8,2025-02-27,2025-02-27,1,True
+T00025,2025-02-19,Stakeholder report,Coordinator B,4,4,2025-02-23,2025-02-23,3,False
+T00416,2025-02-19,Site audit,Coordinator D,5,5,2025-02-24,2025-02-24,1,False
+T01231,2025-02-20,Field deployment,Coordinator B,17,17,2025-03-09,2025-03-09,3,False
+T00082,2025-02-20,Site audit,Coordinator A,5,5,2025-02-25,2025-02-25,2,False
+T00961,2025-02-20,Field deployment,Coordinator C,14,14,2025-03-06,2025-03-06,4,False
+T00381,2025-02-21,Training rollout,Coordinator D,8,8,2025-03-01,2025-03-01,3,False
+T00632,2025-02-22,Field deployment,Coordinator A,12,12,2025-03-06,2025-03-06,1,True
+T00332,2025-02-22,Procurement,Coordinator A,6,5,2025-02-28,2025-02-27,3,False
+T00850,2025-02-22,Training rollout,Coordinator C,3,2,2025-02-25,2025-02-24,2,False
+T00639,2025-02-22,Field deployment,Coordinator D,15,15,2025-03-09,2025-03-09,1,False
+T00397,2025-02-23,Field deployment,Coordinator D,13,12,2025-03-08,2025-03-07,2,False
+T00965,2025-02-24,Training rollout,Coordinator A,7,7,2025-03-03,2025-03-03,1,False
+T00653,2025-02-24,Stakeholder report,Coordinator A,3,6,2025-02-27,2025-03-02,3,False
+T00859,2025-02-24,Procurement,Coordinator D,5,4,2025-03-01,2025-02-28,2,False
+T00698,2025-02-24,Stakeholder report,Coordinator A,6,6,2025-03-02,2025-03-02,1,False
+T00531,2025-02-24,Stakeholder report,Coordinator D,6,5,2025-03-02,2025-03-01,2,False
+T01345,2025-02-24,Field deployment,Coordinator A,15,14,2025-03-11,2025-03-10,1,False
+T00509,2025-02-25,Field deployment,Coordinator C,4,4,2025-03-01,2025-03-01,1,False
+T00498,2025-02-25,Stakeholder report,Coordinator C,3,2,2025-02-28,2025-02-27,1,False
+T00239,2025-02-25,Stakeholder report,Coordinator B,4,4,2025-03-01,2025-03-01,2,False
+T01215,2025-02-25,Training rollout,Coordinator A,7,7,2025-03-04,2025-03-04,3,False
+T00426,2025-02-26,Procurement,Coordinator C,9,12,2025-03-07,2025-03-10,3,False
+T00692,2025-02-26,Procurement,Coordinator B,6,6,2025-03-04,2025-03-04,2,False
+T00152,2025-02-26,Field deployment,Coordinator C,9,11,2025-03-07,2025-03-09,3,False
+T00948,2025-02-26,Site audit,Coordinator D,6,12,2025-03-04,2025-03-10,1,False
+T00741,2025-02-27,Training rollout,Coordinator A,6,9,2025-03-05,2025-03-08,1,False
+T01044,2025-02-28,Site audit,Coordinator C,6,6,2025-03-06,2025-03-06,1,False
+T00135,2025-02-28,Field deployment,Coordinator C,9,8,2025-03-09,2025-03-08,2,False
+T00471,2025-02-28,Stakeholder report,Coordinator A,3,3,2025-03-03,2025-03-03,2,False
+T01368,2025-02-28,Field deployment,Coordinator B,9,8,2025-03-09,2025-03-08,2,False
+T00420,2025-02-28,Training rollout,Coordinator C,8,8,2025-03-08,2025-03-08,2,False
+T01164,2025-02-28,Site audit,Coordinator C,6,5,2025-03-06,2025-03-05,3,False
+T01100,2025-03-01,Training rollout,Coordinator C,5,4,2025-03-06,2025-03-05,3,False
+T00788,2025-03-01,Training rollout,Coordinator C,8,7,2025-03-09,2025-03-08,3,False
+T00077,2025-03-01,Stakeholder report,Coordinator D,4,3,2025-03-05,2025-03-04,4,False
+T00294,2025-03-02,Field deployment,Coordinator B,14,13,2025-03-16,2025-03-15,2,False
+T01331,2025-03-02,Site audit,Coordinator C,4,4,2025-03-06,2025-03-06,1,False
+T00556,2025-03-03,Site audit,Coordinator D,3,2,2025-03-06,2025-03-05,4,False
+T00611,2025-03-03,Field deployment,Coordinator A,15,26,2025-03-18,2025-03-29,1,False
+T00923,2025-03-03,Stakeholder report,Coordinator C,4,6,2025-03-07,2025-03-09,1,False
+T00590,2025-03-04,Training rollout,Coordinator C,5,5,2025-03-09,2025-03-09,3,False
+T00494,2025-03-04,Site audit,Coordinator B,4,4,2025-03-08,2025-03-08,4,False
+T00561,2025-03-04,Stakeholder report,Coordinator C,3,2,2025-03-07,2025-03-06,2,False
+T01029,2025-03-04,Field deployment,Coordinator B,17,16,2025-03-21,2025-03-20,2,False
+T00545,2025-03-05,Site audit,Coordinator A,4,3,2025-03-09,2025-03-08,3,False
+T00497,2025-03-05,Training rollout,Coordinator B,7,6,2025-03-12,2025-03-11,1,False
+T01151,2025-03-05,Site audit,Coordinator B,6,5,2025-03-11,2025-03-10,1,False
+T00336,2025-03-05,Site audit,Coordinator A,6,5,2025-03-11,2025-03-10,6,True
+T00748,2025-03-05,Field deployment,Coordinator B,14,14,2025-03-19,2025-03-19,4,False
+T01439,2025-03-06,Stakeholder report,Coordinator B,4,3,2025-03-10,2025-03-09,4,False
+T01292,2025-03-06,Site audit,Coordinator C,4,3,2025-03-10,2025-03-09,3,False
+T00550,2025-03-07,Field deployment,Coordinator B,14,26,2025-03-21,2025-04-02,6,False
+T00370,2025-03-08,Site audit,Coordinator C,5,5,2025-03-13,2025-03-13,5,False
+T01430,2025-03-08,Stakeholder report,Coordinator A,3,2,2025-03-11,2025-03-10,5,False
+T01070,2025-03-08,Training rollout,Coordinator B,6,5,2025-03-14,2025-03-13,2,False
+T01438,2025-03-08,Site audit,Coordinator D,3,5,2025-03-11,2025-03-13,3,False
+T00985,2025-03-09,Stakeholder report,Coordinator B,2,2,2025-03-11,2025-03-11,2,True
+T01337,2025-03-10,Training rollout,Coordinator D,4,3,2025-03-14,2025-03-13,4,False
+T00778,2025-03-10,Stakeholder report,Coordinator D,5,4,2025-03-15,2025-03-14,3,False
+T00735,2025-03-10,Stakeholder report,Coordinator B,4,3,2025-03-14,2025-03-13,2,False
+T00214,2025-03-10,Stakeholder report,Coordinator D,6,5,2025-03-16,2025-03-15,1,False
+T01321,2025-03-10,Stakeholder report,Coordinator B,4,4,2025-03-14,2025-03-14,3,False
+T00425,2025-03-11,Training rollout,Coordinator D,5,4,2025-03-16,2025-03-15,3,False
+T00470,2025-03-11,Stakeholder report,Coordinator D,1,1,2025-03-12,2025-03-12,2,False
+T01101,2025-03-11,Field deployment,Coordinator B,8,8,2025-03-19,2025-03-19,4,False
+T01158,2025-03-12,Stakeholder report,Coordinator D,5,4,2025-03-17,2025-03-16,2,True
+T00868,2025-03-12,Training rollout,Coordinator B,7,7,2025-03-19,2025-03-19,3,False
+T01323,2025-03-12,Procurement,Coordinator B,8,7,2025-03-20,2025-03-19,2,True
+T00073,2025-03-13,Field deployment,Coordinator B,8,7,2025-03-21,2025-03-20,2,False
+T00674,2025-03-14,Procurement,Coordinator A,7,7,2025-03-21,2025-03-21,2,False
+T00259,2025-03-15,Field deployment,Coordinator B,12,11,2025-03-27,2025-03-26,2,False
+T00395,2025-03-15,Training rollout,Coordinator B,6,5,2025-03-21,2025-03-20,2,False
+T00533,2025-03-15,Stakeholder report,Coordinator C,4,4,2025-03-19,2025-03-19,4,False
+T00644,2025-03-15,Site audit,Coordinator D,5,7,2025-03-20,2025-03-22,2,False
+T00146,2025-03-15,Site audit,Coordinator C,2,2,2025-03-17,2025-03-17,3,False
+T00515,2025-03-16,Procurement,Coordinator A,10,9,2025-03-26,2025-03-25,6,False
+T01179,2025-03-17,Training rollout,Coordinator C,9,9,2025-03-26,2025-03-26,1,False
+T00374,2025-03-17,Procurement,Coordinator A,11,10,2025-03-28,2025-03-27,2,False
+T00275,2025-03-17,Stakeholder report,Coordinator D,4,6,2025-03-21,2025-03-23,2,False
+T00848,2025-03-17,Site audit,Coordinator C,5,5,2025-03-22,2025-03-22,4,False
+T00237,2025-03-18,Stakeholder report,Coordinator A,6,6,2025-03-24,2025-03-24,1,False
+T01352,2025-03-18,Site audit,Coordinator B,3,3,2025-03-21,2025-03-21,2,False
+T00266,2025-03-19,Site audit,Coordinator A,5,4,2025-03-24,2025-03-23,3,True
+T01199,2025-03-19,Stakeholder report,Coordinator D,6,5,2025-03-25,2025-03-24,1,False
+T00143,2025-03-20,Site audit,Coordinator B,4,3,2025-03-24,2025-03-23,3,False
+T01083,2025-03-20,Site audit,Coordinator C,6,8,2025-03-26,2025-03-28,5,False
+T00568,2025-03-21,Procurement,Coordinator C,10,9,2025-03-31,2025-03-30,2,False
+T00810,2025-03-21,Procurement,Coordinator B,15,15,2025-04-05,2025-04-05,1,False
+T00567,2025-03-21,Training rollout,Coordinator D,4,3,2025-03-25,2025-03-24,3,False
+T00909,2025-03-22,Procurement,Coordinator B,8,8,2025-03-30,2025-03-30,3,False
+T00963,2025-03-23,Stakeholder report,Coordinator D,4,3,2025-03-27,2025-03-26,2,True
+T01309,2025-03-23,Field deployment,Coordinator B,10,12,2025-04-02,2025-04-04,2,False
+T01185,2025-03-23,Field deployment,Coordinator B,10,9,2025-04-02,2025-04-01,2,False
+T00078,2025-03-23,Site audit,Coordinator C,4,3,2025-03-27,2025-03-26,2,False
+T00751,2025-03-23,Site audit,Coordinator B,4,3,2025-03-27,2025-03-26,3,False
+T00689,2025-03-24,Field deployment,Coordinator C,8,8,2025-04-01,2025-04-01,2,False
+T01009,2025-03-25,Site audit,Coordinator A,6,5,2025-03-31,2025-03-30,3,False
+T00207,2025-03-26,Training rollout,Coordinator B,6,6,2025-04-01,2025-04-01,2,True
+T00543,2025-03-27,Site audit,Coordinator C,3,2,2025-03-30,2025-03-29,3,False
+T00614,2025-03-27,Site audit,Coordinator B,6,10,2025-04-02,2025-04-06,1,False
+T01114,2025-03-28,Stakeholder report,Coordinator A,5,5,2025-04-02,2025-04-02,2,False
+T00099,2025-03-28,Stakeholder report,Coordinator B,4,3,2025-04-01,2025-03-31,3,False
+T01408,2025-03-29,Stakeholder report,Coordinator A,1,1,2025-03-30,2025-03-30,2,False
+T00476,2025-03-29,Stakeholder report,Coordinator C,4,3,2025-04-02,2025-04-01,2,True
+T00490,2025-03-29,Field deployment,Coordinator C,13,13,2025-04-11,2025-04-11,1,False
+T00602,2025-03-29,Stakeholder report,Coordinator B,2,2,2025-03-31,2025-03-31,2,False
+T01090,2025-03-29,Procurement,Coordinator D,5,7,2025-04-03,2025-04-05,5,False
+T00457,2025-03-30,Stakeholder report,Coordinator C,4,3,2025-04-03,2025-04-02,1,False
+T01370,2025-03-30,Procurement,Coordinator D,11,10,2025-04-10,2025-04-09,1,False
+T00131,2025-03-30,Stakeholder report,Coordinator C,3,3,2025-04-02,2025-04-02,5,False
+T01333,2025-03-31,Training rollout,Coordinator B,6,5,2025-04-06,2025-04-05,4,False
+T00576,2025-03-31,Field deployment,Coordinator D,9,9,2025-04-09,2025-04-09,1,False
+T00860,2025-04-01,Site audit,Coordinator A,4,4,2025-04-05,2025-04-05,4,False
+T01208,2025-04-01,Field deployment,Coordinator A,13,13,2025-04-14,2025-04-14,2,False
+T00802,2025-04-01,Procurement,Coordinator B,8,8,2025-04-09,2025-04-09,4,False
+T01383,2025-04-02,Field deployment,Coordinator A,14,14,2025-04-16,2025-04-16,3,False
+T00488,2025-04-02,Procurement,Coordinator C,10,10,2025-04-12,2025-04-12,1,False
+T00591,2025-04-02,Stakeholder report,Coordinator B,4,4,2025-04-06,2025-04-06,2,True
+T00990,2025-04-02,Site audit,Coordinator A,4,4,2025-04-06,2025-04-06,4,False
+T01038,2025-04-03,Procurement,Coordinator C,11,11,2025-04-14,2025-04-14,1,False
+T00206,2025-04-03,Site audit,Coordinator B,4,3,2025-04-07,2025-04-06,3,False
+T01259,2025-04-03,Procurement,Coordinator A,9,8,2025-04-12,2025-04-11,4,False
+T00855,2025-04-03,Stakeholder report,Coordinator D,3,3,2025-04-06,2025-04-06,4,False
+T00710,2025-04-04,Stakeholder report,Coordinator A,4,4,2025-04-08,2025-04-08,5,False
+T01281,2025-04-05,Stakeholder report,Coordinator D,5,4,2025-04-10,2025-04-09,3,False
+T01052,2025-04-06,Site audit,Coordinator A,7,7,2025-04-13,2025-04-13,3,False
+T00767,2025-04-07,Field deployment,Coordinator C,12,12,2025-04-19,2025-04-19,1,False
+T00226,2025-04-07,Stakeholder report,Coordinator D,4,4,2025-04-11,2025-04-11,3,False
+T00750,2025-04-07,Site audit,Coordinator D,5,4,2025-04-12,2025-04-11,2,False
+T01317,2025-04-07,Field deployment,Coordinator A,14,13,2025-04-21,2025-04-20,2,False
+T01067,2025-04-07,Training rollout,Coordinator D,6,5,2025-04-13,2025-04-12,5,False
+T01240,2025-04-07,Training rollout,Coordinator C,9,8,2025-04-16,2025-04-15,4,False
+T01357,2025-04-08,Site audit,Coordinator D,4,9,2025-04-12,2025-04-17,3,False
+T01270,2025-04-08,Site audit,Coordinator D,6,6,2025-04-14,2025-04-14,2,False
+T01037,2025-04-09,Training rollout,Coordinator A,7,6,2025-04-16,2025-04-15,5,False
+T01420,2025-04-09,Site audit,Coordinator D,3,3,2025-04-12,2025-04-12,2,False
+T00770,2025-04-09,Field deployment,Coordinator B,9,9,2025-04-18,2025-04-18,1,False
+T00645,2025-04-10,Site audit,Coordinator D,5,4,2025-04-15,2025-04-14,3,False
+T00489,2025-04-10,Stakeholder report,Coordinator C,5,4,2025-04-15,2025-04-14,1,False
+T01117,2025-04-10,Field deployment,Coordinator D,13,13,2025-04-23,2025-04-23,1,False
+T00893,2025-04-10,Field deployment,Coordinator B,15,15,2025-04-25,2025-04-25,3,False
+T00821,2025-04-11,Field deployment,Coordinator C,9,8,2025-04-20,2025-04-19,2,False
+T01342,2025-04-11,Site audit,Coordinator A,5,7,2025-04-16,2025-04-18,2,False
+T01374,2025-04-12,Field deployment,Coordinator A,3,2,2025-04-15,2025-04-14,3,False
+T00528,2025-04-13,Procurement,Coordinator D,6,6,2025-04-19,2025-04-19,3,False
+T01033,2025-04-13,Stakeholder report,Coordinator A,4,4,2025-04-17,2025-04-17,1,False
+T00346,2025-04-13,Stakeholder report,Coordinator B,6,6,2025-04-19,2025-04-19,2,False
+T00866,2025-04-14,Site audit,Coordinator D,6,6,2025-04-20,2025-04-20,3,False
+T00970,2025-04-14,Training rollout,Coordinator B,9,8,2025-04-23,2025-04-22,5,False
+T01128,2025-04-14,Stakeholder report,Coordinator A,5,5,2025-04-19,2025-04-19,2,False
+T01061,2025-04-14,Stakeholder report,Coordinator A,2,2,2025-04-16,2025-04-16,2,True
+T00718,2025-04-15,Stakeholder report,Coordinator C,4,4,2025-04-19,2025-04-19,4,False
+T01375,2025-04-15,Site audit,Coordinator A,4,4,2025-04-19,2025-04-19,1,False
+T00599,2025-04-15,Site audit,Coordinator A,5,5,2025-04-20,2025-04-20,3,False
+T00031,2025-04-15,Field deployment,Coordinator C,10,19,2025-04-25,2025-05-04,3,False
+T01351,2025-04-15,Procurement,Coordinator C,12,12,2025-04-27,2025-04-27,3,False
+T00193,2025-04-16,Site audit,Coordinator A,6,5,2025-04-22,2025-04-21,4,False
+T00967,2025-04-16,Field deployment,Coordinator D,9,9,2025-04-25,2025-04-25,5,False
+T00423,2025-04-17,Training rollout,Coordinator A,7,7,2025-04-24,2025-04-24,1,False
+T01127,2025-04-17,Stakeholder report,Coordinator B,5,5,2025-04-22,2025-04-22,3,False
+T00774,2025-04-17,Stakeholder report,Coordinator D,2,2,2025-04-19,2025-04-19,4,False
+T00798,2025-04-18,Stakeholder report,Coordinator B,3,2,2025-04-21,2025-04-20,2,False
+T00366,2025-04-18,Procurement,Coordinator A,10,14,2025-04-28,2025-05-02,4,False
+T00286,2025-04-18,Training rollout,Coordinator C,8,8,2025-04-26,2025-04-26,2,False
+T00400,2025-04-18,Site audit,Coordinator A,4,3,2025-04-22,2025-04-21,1,False
+T00583,2025-04-18,Stakeholder report,Coordinator C,3,5,2025-04-21,2025-04-23,2,False
+T00223,2025-04-20,Field deployment,Coordinator A,15,26,2025-05-05,2025-05-16,3,False
+T00783,2025-04-20,Procurement,Coordinator D,6,6,2025-04-26,2025-04-26,2,False
+T00114,2025-04-20,Field deployment,Coordinator C,10,9,2025-04-30,2025-04-29,3,False
+T01403,2025-04-21,Field deployment,Coordinator C,16,16,2025-05-07,2025-05-07,2,False
+T00760,2025-04-22,Site audit,Coordinator B,5,4,2025-04-27,2025-04-26,3,False
+T00261,2025-04-22,Procurement,Coordinator C,12,21,2025-05-04,2025-05-13,4,False
+T00087,2025-04-22,Field deployment,Coordinator B,18,18,2025-05-10,2025-05-10,2,True
+T01024,2025-04-23,Training rollout,Coordinator A,8,7,2025-05-01,2025-04-30,2,False
+T00991,2025-04-24,Site audit,Coordinator A,4,7,2025-04-28,2025-05-01,2,False
+T00315,2025-04-24,Field deployment,Coordinator B,14,13,2025-05-08,2025-05-07,1,False
+T00134,2025-04-24,Field deployment,Coordinator B,13,12,2025-05-07,2025-05-06,3,False
+T00551,2025-04-25,Field deployment,Coordinator B,17,25,2025-05-12,2025-05-20,3,False
+T00569,2025-04-25,Site audit,Coordinator C,5,5,2025-04-30,2025-04-30,2,False
+T00365,2025-04-26,Field deployment,Coordinator D,13,13,2025-05-09,2025-05-09,4,False
+T01022,2025-04-26,Site audit,Coordinator C,2,1,2025-04-28,2025-04-27,1,False
+T00107,2025-04-27,Field deployment,Coordinator C,13,15,2025-05-10,2025-05-12,3,False
+T00345,2025-04-27,Procurement,Coordinator D,14,13,2025-05-11,2025-05-10,3,False
+T00606,2025-04-28,Training rollout,Coordinator D,10,10,2025-05-08,2025-05-08,3,False
+T00499,2025-04-28,Field deployment,Coordinator D,13,12,2025-05-11,2025-05-10,2,False
+T00306,2025-04-28,Field deployment,Coordinator A,10,9,2025-05-08,2025-05-07,1,False
+T01266,2025-04-28,Procurement,Coordinator A,6,6,2025-05-04,2025-05-04,1,False
+T00021,2025-04-28,Procurement,Coordinator D,12,11,2025-05-10,2025-05-09,2,False
+T00428,2025-04-28,Stakeholder report,Coordinator C,5,5,2025-05-03,2025-05-03,2,False
+T00001,2025-04-29,Field deployment,Coordinator B,12,11,2025-05-11,2025-05-10,2,False
+T00006,2025-04-29,Procurement,Coordinator B,11,22,2025-05-10,2025-05-21,2,True
+T00640,2025-04-30,Field deployment,Coordinator B,14,13,2025-05-14,2025-05-13,3,False
+T01142,2025-04-30,Field deployment,Coordinator D,9,8,2025-05-09,2025-05-08,2,False
+T00040,2025-05-01,Field deployment,Coordinator C,12,17,2025-05-13,2025-05-18,2,False
+T00260,2025-05-01,Field deployment,Coordinator A,12,11,2025-05-13,2025-05-12,3,False
+T00697,2025-05-01,Training rollout,Coordinator D,8,8,2025-05-09,2025-05-09,4,False
+T00117,2025-05-01,Stakeholder report,Coordinator D,3,3,2025-05-04,2025-05-04,3,False
+T01119,2025-05-01,Field deployment,Coordinator D,10,9,2025-05-11,2025-05-10,2,False
+T00709,2025-05-02,Field deployment,Coordinator C,11,17,2025-05-13,2025-05-19,2,False
+T01211,2025-05-03,Field deployment,Coordinator D,10,9,2025-05-13,2025-05-12,1,False
+T01318,2025-05-03,Stakeholder report,Coordinator A,5,5,2025-05-08,2025-05-08,1,False
+T01017,2025-05-03,Field deployment,Coordinator D,14,14,2025-05-17,2025-05-17,2,False
+T01120,2025-05-04,Site audit,Coordinator C,5,4,2025-05-09,2025-05-08,2,False
+T01143,2025-05-04,Site audit,Coordinator B,6,6,2025-05-10,2025-05-10,2,False
+T01261,2025-05-04,Site audit,Coordinator D,3,3,2025-05-07,2025-05-07,4,False
+T00847,2025-05-05,Training rollout,Coordinator A,6,5,2025-05-11,2025-05-10,2,False
+T00745,2025-05-05,Training rollout,Coordinator A,7,16,2025-05-12,2025-05-21,1,False
+T00522,2025-05-06,Procurement,Coordinator A,10,14,2025-05-16,2025-05-20,3,False
+T01360,2025-05-06,Stakeholder report,Coordinator D,4,3,2025-05-10,2025-05-09,3,False
+T01149,2025-05-06,Stakeholder report,Coordinator B,1,1,2025-05-07,2025-05-07,2,False
+T00116,2025-05-07,Field deployment,Coordinator B,14,13,2025-05-21,2025-05-20,3,False
+T00229,2025-05-07,Procurement,Coordinator B,11,10,2025-05-18,2025-05-17,1,False
+T00069,2025-05-07,Procurement,Coordinator B,9,8,2025-05-16,2025-05-15,1,False
+T00341,2025-05-07,Stakeholder report,Coordinator D,5,4,2025-05-12,2025-05-11,2,True
+T00584,2025-05-09,Field deployment,Coordinator B,18,17,2025-05-27,2025-05-26,4,True
+T00484,2025-05-10,Stakeholder report,Coordinator C,4,4,2025-05-14,2025-05-14,4,True
+T00008,2025-05-10,Site audit,Coordinator B,6,5,2025-05-16,2025-05-15,1,False
+T00768,2025-05-11,Procurement,Coordinator D,7,7,2025-05-18,2025-05-18,3,False
+T01190,2025-05-11,Training rollout,Coordinator B,9,8,2025-05-20,2025-05-19,2,False
+T00083,2025-05-11,Stakeholder report,Coordinator C,4,4,2025-05-15,2025-05-15,3,False
+T00427,2025-05-11,Stakeholder report,Coordinator D,5,5,2025-05-16,2025-05-16,2,False
+T00335,2025-05-11,Field deployment,Coordinator C,12,12,2025-05-23,2025-05-23,2,False
+T00378,2025-05-11,Procurement,Coordinator D,10,9,2025-05-21,2025-05-20,1,False
+T00657,2025-05-11,Field deployment,Coordinator A,13,13,2025-05-24,2025-05-24,1,False
+T00589,2025-05-12,Procurement,Coordinator A,10,12,2025-05-22,2025-05-24,3,False
+T00102,2025-05-12,Procurement,Coordinator B,11,10,2025-05-23,2025-05-22,2,False
+T01048,2025-05-12,Site audit,Coordinator A,6,5,2025-05-18,2025-05-17,3,False
+T00170,2025-05-13,Site audit,Coordinator D,5,5,2025-05-18,2025-05-18,3,False
+T00984,2025-05-13,Site audit,Coordinator A,6,5,2025-05-19,2025-05-18,4,False
+T01415,2025-05-13,Training rollout,Coordinator A,4,3,2025-05-17,2025-05-16,1,False
+T00566,2025-05-13,Procurement,Coordinator D,8,7,2025-05-21,2025-05-20,3,False
+T01141,2025-05-14,Stakeholder report,Coordinator C,3,6,2025-05-17,2025-05-20,2,False
+T00954,2025-05-14,Procurement,Coordinator C,7,7,2025-05-21,2025-05-21,2,False
+T00738,2025-05-14,Site audit,Coordinator A,5,5,2025-05-19,2025-05-19,2,False
+T00388,2025-05-14,Site audit,Coordinator A,6,6,2025-05-20,2025-05-20,3,False
+T00392,2025-05-14,Stakeholder report,Coordinator A,3,2,2025-05-17,2025-05-16,5,False
+T00945,2025-05-14,Site audit,Coordinator B,2,2,2025-05-16,2025-05-16,4,False
+T00126,2025-05-16,Training rollout,Coordinator D,8,8,2025-05-24,2025-05-24,3,False
+T00029,2025-05-16,Stakeholder report,Coordinator C,5,5,2025-05-21,2025-05-21,2,True
+T00017,2025-05-16,Site audit,Coordinator A,4,4,2025-05-20,2025-05-20,3,True
+T01203,2025-05-17,Procurement,Coordinator A,7,7,2025-05-24,2025-05-24,1,False
+T01107,2025-05-17,Stakeholder report,Coordinator D,3,2,2025-05-20,2025-05-19,4,False
+T00101,2025-05-17,Stakeholder report,Coordinator D,4,3,2025-05-21,2025-05-20,3,False
+T01416,2025-05-17,Training rollout,Coordinator B,10,10,2025-05-27,2025-05-27,3,False
+T00091,2025-05-17,Stakeholder report,Coordinator C,3,2,2025-05-20,2025-05-19,4,False
+T00301,2025-05-18,Field deployment,Coordinator D,8,8,2025-05-26,2025-05-26,4,False
+T01274,2025-05-19,Stakeholder report,Coordinator D,4,4,2025-05-23,2025-05-23,1,False
+T01176,2025-05-19,Procurement,Coordinator B,12,11,2025-05-31,2025-05-30,3,False
+T00124,2025-05-20,Field deployment,Coordinator C,16,15,2025-06-05,2025-06-04,4,False
+T00998,2025-05-20,Site audit,Coordinator A,3,3,2025-05-23,2025-05-23,3,False
+T00049,2025-05-20,Stakeholder report,Coordinator D,6,5,2025-05-26,2025-05-25,1,False
+T00560,2025-05-20,Stakeholder report,Coordinator A,4,3,2025-05-24,2025-05-23,1,False
+T00921,2025-05-21,Training rollout,Coordinator C,3,3,2025-05-24,2025-05-24,4,False
+T01376,2025-05-21,Training rollout,Coordinator A,8,7,2025-05-29,2025-05-28,2,False
+T00817,2025-05-22,Procurement,Coordinator A,5,8,2025-05-27,2025-05-30,4,True
+T00562,2025-05-22,Training rollout,Coordinator D,7,7,2025-05-29,2025-05-29,2,False
+T00823,2025-05-23,Procurement,Coordinator B,8,7,2025-05-31,2025-05-30,4,False
+T00148,2025-05-24,Training rollout,Coordinator A,9,9,2025-06-02,2025-06-02,1,False
+T01183,2025-05-24,Stakeholder report,Coordinator D,3,3,2025-05-27,2025-05-27,3,False
+T01014,2025-05-24,Stakeholder report,Coordinator D,5,5,2025-05-29,2025-05-29,5,False
+T00582,2025-05-24,Field deployment,Coordinator A,14,13,2025-06-07,2025-06-06,2,False
+T00142,2025-05-25,Procurement,Coordinator B,10,9,2025-06-04,2025-06-03,4,False
+T01417,2025-05-25,Stakeholder report,Coordinator D,5,5,2025-05-30,2025-05-30,1,False
+T00784,2025-05-25,Procurement,Coordinator A,4,4,2025-05-29,2025-05-29,1,False
+T00154,2025-05-25,Stakeholder report,Coordinator A,4,3,2025-05-29,2025-05-28,2,True
+T00654,2025-05-26,Stakeholder report,Coordinator D,4,3,2025-05-30,2025-05-29,3,False
+T00822,2025-05-26,Training rollout,Coordinator A,7,7,2025-06-02,2025-06-02,3,False
+T00838,2025-05-26,Procurement,Coordinator C,9,9,2025-06-04,2025-06-04,2,False
+T01335,2025-05-27,Field deployment,Coordinator D,11,10,2025-06-07,2025-06-06,1,False
+T00436,2025-05-27,Field deployment,Coordinator C,13,12,2025-06-09,2025-06-08,4,False
+T00176,2025-05-27,Training rollout,Coordinator B,7,6,2025-06-03,2025-06-02,2,False
+T00283,2025-05-28,Field deployment,Coordinator B,14,13,2025-06-11,2025-06-10,4,False
+T00059,2025-05-28,Training rollout,Coordinator D,8,8,2025-06-05,2025-06-05,2,False
+T00379,2025-05-28,Site audit,Coordinator C,4,6,2025-06-01,2025-06-03,2,False
+T00879,2025-05-28,Training rollout,Coordinator A,8,8,2025-06-05,2025-06-05,3,False
+T01088,2025-05-28,Site audit,Coordinator A,5,5,2025-06-02,2025-06-02,3,False
+T00334,2025-05-28,Field deployment,Coordinator C,16,15,2025-06-13,2025-06-12,3,False
+T01412,2025-05-28,Site audit,Coordinator A,5,4,2025-06-02,2025-06-01,5,False
+T00950,2025-05-29,Procurement,Coordinator D,11,11,2025-06-09,2025-06-09,3,False
+T00520,2025-05-29,Stakeholder report,Coordinator A,3,3,2025-06-01,2025-06-01,3,True
+T00910,2025-05-29,Stakeholder report,Coordinator C,4,4,2025-06-02,2025-06-02,2,False
+T00588,2025-05-29,Stakeholder report,Coordinator A,4,3,2025-06-02,2025-06-01,3,False
+T00702,2025-05-30,Field deployment,Coordinator D,11,16,2025-06-10,2025-06-15,2,False
+T01393,2025-05-30,Site audit,Coordinator D,4,4,2025-06-03,2025-06-03,1,False
+T00390,2025-05-31,Stakeholder report,Coordinator C,4,3,2025-06-04,2025-06-03,3,False
+T01230,2025-06-01,Training rollout,Coordinator A,7,6,2025-06-08,2025-06-07,3,False
+T01272,2025-06-01,Procurement,Coordinator B,7,10,2025-06-08,2025-06-11,1,False
+T00055,2025-06-02,Stakeholder report,Coordinator C,3,2,2025-06-05,2025-06-04,3,False
+T01447,2025-06-02,Site audit,Coordinator C,2,4,2025-06-04,2025-06-06,3,False
+T00106,2025-06-02,Procurement,Coordinator B,8,10,2025-06-10,2025-06-12,3,False
+T00666,2025-06-02,Training rollout,Coordinator A,7,7,2025-06-09,2025-06-09,2,False
+T01078,2025-06-03,Procurement,Coordinator B,9,12,2025-06-12,2025-06-15,3,False
+T00676,2025-06-04,Field deployment,Coordinator B,18,17,2025-06-22,2025-06-21,1,True
+T00380,2025-06-04,Training rollout,Coordinator A,5,5,2025-06-09,2025-06-09,2,False
+T01356,2025-06-05,Stakeholder report,Coordinator D,4,4,2025-06-09,2025-06-09,3,False
+T01035,2025-06-06,Field deployment,Coordinator B,10,9,2025-06-16,2025-06-15,5,False
+T01380,2025-06-06,Site audit,Coordinator D,5,5,2025-06-11,2025-06-11,2,False
+T00285,2025-06-06,Site audit,Coordinator D,5,4,2025-06-11,2025-06-10,2,False
+T01013,2025-06-07,Stakeholder report,Coordinator D,4,4,2025-06-11,2025-06-11,4,False
+T00251,2025-06-07,Field deployment,Coordinator D,14,14,2025-06-21,2025-06-21,2,False
+T00009,2025-06-07,Field deployment,Coordinator B,9,8,2025-06-16,2025-06-15,2,False
+T00857,2025-06-08,Procurement,Coordinator A,7,10,2025-06-15,2025-06-18,2,False
+T00787,2025-06-08,Field deployment,Coordinator A,16,16,2025-06-24,2025-06-24,5,False
+T00172,2025-06-09,Procurement,Coordinator A,6,5,2025-06-15,2025-06-14,2,False
+T00432,2025-06-09,Procurement,Coordinator A,10,9,2025-06-19,2025-06-18,3,False
+T00836,2025-06-09,Training rollout,Coordinator B,8,7,2025-06-17,2025-06-16,5,True
+T01363,2025-06-09,Site audit,Coordinator D,8,7,2025-06-17,2025-06-16,3,False
+T01441,2025-06-10,Field deployment,Coordinator C,15,14,2025-06-25,2025-06-24,1,False
+T00635,2025-06-10,Stakeholder report,Coordinator A,5,4,2025-06-15,2025-06-14,3,False
+T00869,2025-06-10,Training rollout,Coordinator B,5,5,2025-06-15,2025-06-15,4,False
+T00463,2025-06-10,Field deployment,Coordinator A,8,10,2025-06-18,2025-06-20,2,False
+T00742,2025-06-11,Stakeholder report,Coordinator D,4,3,2025-06-15,2025-06-14,1,False
+T00747,2025-06-12,Field deployment,Coordinator D,11,11,2025-06-23,2025-06-23,3,True
+T00769,2025-06-12,Training rollout,Coordinator A,7,6,2025-06-19,2025-06-18,1,False
+T00245,2025-06-12,Procurement,Coordinator B,10,12,2025-06-22,2025-06-24,1,True
+T00063,2025-06-12,Training rollout,Coordinator D,5,5,2025-06-17,2025-06-17,3,False
+T00931,2025-06-12,Site audit,Coordinator C,4,3,2025-06-16,2025-06-15,2,False
+T00109,2025-06-12,Site audit,Coordinator C,9,9,2025-06-21,2025-06-21,3,False
+T00093,2025-06-13,Training rollout,Coordinator C,6,5,2025-06-19,2025-06-18,3,False
+T00882,2025-06-14,Stakeholder report,Coordinator D,5,4,2025-06-19,2025-06-18,1,False
+T00593,2025-06-14,Stakeholder report,Coordinator A,2,2,2025-06-16,2025-06-16,4,True
+T01019,2025-06-14,Procurement,Coordinator D,11,10,2025-06-25,2025-06-24,3,True
+T01395,2025-06-14,Site audit,Coordinator C,7,6,2025-06-21,2025-06-20,3,False
+T01213,2025-06-15,Training rollout,Coordinator B,8,7,2025-06-23,2025-06-22,4,False
+T00303,2025-06-15,Training rollout,Coordinator A,9,9,2025-06-24,2025-06-24,2,False
+T00722,2025-06-15,Site audit,Coordinator C,3,3,2025-06-18,2025-06-18,1,False
+T00012,2025-06-15,Stakeholder report,Coordinator C,5,5,2025-06-20,2025-06-20,6,False
+T01298,2025-06-15,Stakeholder report,Coordinator D,4,4,2025-06-19,2025-06-19,3,False
+T00327,2025-06-16,Stakeholder report,Coordinator D,3,3,2025-06-19,2025-06-19,1,False
+T01445,2025-06-16,Stakeholder report,Coordinator C,6,6,2025-06-22,2025-06-22,3,False
+T00555,2025-06-17,Stakeholder report,Coordinator D,3,2,2025-06-20,2025-06-19,2,False
+T00683,2025-06-17,Field deployment,Coordinator B,14,13,2025-07-01,2025-06-30,1,False
+T00493,2025-06-18,Field deployment,Coordinator C,14,19,2025-07-02,2025-07-07,2,False
+T00300,2025-06-18,Stakeholder report,Coordinator D,4,3,2025-06-22,2025-06-21,1,False
+T01446,2025-06-18,Training rollout,Coordinator B,4,4,2025-06-22,2025-06-22,4,False
+T01355,2025-06-18,Site audit,Coordinator A,6,5,2025-06-24,2025-06-23,1,True
+T00863,2025-06-18,Training rollout,Coordinator C,5,4,2025-06-23,2025-06-22,1,False
+T01320,2025-06-19,Stakeholder report,Coordinator B,4,4,2025-06-23,2025-06-23,2,False
+T01200,2025-06-19,Field deployment,Coordinator C,13,24,2025-07-02,2025-07-13,3,False
+T00999,2025-06-19,Stakeholder report,Coordinator A,5,4,2025-06-24,2025-06-23,3,False
+T00098,2025-06-20,Site audit,Coordinator A,4,4,2025-06-24,2025-06-24,3,False
+T00013,2025-06-21,Field deployment,Coordinator B,12,17,2025-07-03,2025-07-08,4,False
+T00906,2025-06-21,Field deployment,Coordinator B,10,10,2025-07-01,2025-07-01,3,False
+T00104,2025-06-21,Field deployment,Coordinator A,10,10,2025-07-01,2025-07-01,3,False
+T00293,2025-06-22,Site audit,Coordinator A,3,2,2025-06-25,2025-06-24,5,False
+T00929,2025-06-22,Stakeholder report,Coordinator D,5,4,2025-06-27,2025-06-26,3,False
+T01229,2025-06-23,Procurement,Coordinator B,10,18,2025-07-03,2025-07-11,2,True
+T00139,2025-06-23,Stakeholder report,Coordinator A,4,3,2025-06-27,2025-06-26,3,False
+T00095,2025-06-23,Stakeholder report,Coordinator C,4,3,2025-06-27,2025-06-26,2,False
+T01068,2025-06-23,Stakeholder report,Coordinator A,3,2,2025-06-26,2025-06-25,2,True
+T00765,2025-06-23,Site audit,Coordinator B,4,3,2025-06-27,2025-06-26,3,False
+T00053,2025-06-24,Stakeholder report,Coordinator A,5,4,2025-06-29,2025-06-28,2,False
+T00322,2025-06-24,Site audit,Coordinator C,4,3,2025-06-28,2025-06-27,1,False
+T00136,2025-06-24,Stakeholder report,Coordinator B,4,4,2025-06-28,2025-06-28,3,False
+T00343,2025-06-24,Stakeholder report,Coordinator C,5,5,2025-06-29,2025-06-29,2,True
+T00396,2025-06-26,Procurement,Coordinator D,9,9,2025-07-05,2025-07-05,7,False
+T00469,2025-06-26,Site audit,Coordinator A,6,6,2025-07-02,2025-07-02,3,False
+T01108,2025-06-27,Site audit,Coordinator D,5,4,2025-07-02,2025-07-01,2,False
+T01429,2025-06-27,Stakeholder report,Coordinator A,5,4,2025-07-02,2025-07-01,3,False
+T00629,2025-06-28,Site audit,Coordinator B,6,6,2025-07-04,2025-07-04,4,False
+T00563,2025-06-28,Field deployment,Coordinator D,14,14,2025-07-12,2025-07-12,4,False
+T00927,2025-06-28,Procurement,Coordinator C,9,13,2025-07-07,2025-07-11,3,False
+T01084,2025-06-28,Field deployment,Coordinator C,14,14,2025-07-12,2025-07-12,2,False
+T00015,2025-06-28,Procurement,Coordinator C,11,10,2025-07-09,2025-07-08,1,False
+T00369,2025-06-29,Stakeholder report,Coordinator B,2,1,2025-07-01,2025-06-30,2,False
+T00228,2025-06-29,Procurement,Coordinator D,11,11,2025-07-10,2025-07-10,2,False
+T01361,2025-06-29,Field deployment,Coordinator D,10,9,2025-07-09,2025-07-08,1,False
+T00070,2025-06-29,Procurement,Coordinator C,8,8,2025-07-07,2025-07-07,2,False
+T01126,2025-06-30,Training rollout,Coordinator B,6,6,2025-07-06,2025-07-06,2,False
+T00410,2025-06-30,Training rollout,Coordinator A,6,5,2025-07-06,2025-07-05,2,False
+T00308,2025-07-01,Training rollout,Coordinator B,4,7,2025-07-05,2025-07-08,1,False
+T01091,2025-07-01,Procurement,Coordinator D,10,9,2025-07-11,2025-07-10,3,False
+T00342,2025-07-01,Stakeholder report,Coordinator A,2,2,2025-07-03,2025-07-03,3,False
+T00642,2025-07-01,Stakeholder report,Coordinator D,4,3,2025-07-05,2025-07-04,4,False
+T01435,2025-07-02,Stakeholder report,Coordinator C,3,3,2025-07-05,2025-07-05,1,False
+T00958,2025-07-02,Procurement,Coordinator B,10,9,2025-07-12,2025-07-11,2,False
+T00057,2025-07-03,Stakeholder report,Coordinator C,3,2,2025-07-06,2025-07-05,2,True
+T00572,2025-07-03,Procurement,Coordinator D,13,13,2025-07-16,2025-07-16,2,True
+T00812,2025-07-03,Procurement,Coordinator D,7,6,2025-07-10,2025-07-09,7,False
+T01436,2025-07-04,Stakeholder report,Coordinator C,3,2,2025-07-07,2025-07-06,2,False
+T00121,2025-07-04,Stakeholder report,Coordinator D,4,6,2025-07-08,2025-07-10,3,False
+T01122,2025-07-04,Field deployment,Coordinator C,12,11,2025-07-16,2025-07-15,1,True
+T00672,2025-07-05,Field deployment,Coordinator C,9,9,2025-07-14,2025-07-14,3,False
+T00068,2025-07-05,Stakeholder report,Coordinator C,4,3,2025-07-09,2025-07-08,7,False
+T01247,2025-07-05,Field deployment,Coordinator C,10,9,2025-07-15,2025-07-14,1,True
+T00310,2025-07-05,Training rollout,Coordinator A,10,9,2025-07-15,2025-07-14,4,True
+T01045,2025-07-06,Field deployment,Coordinator B,14,13,2025-07-20,2025-07-19,3,False
+T01034,2025-07-07,Site audit,Coordinator C,4,4,2025-07-11,2025-07-11,4,False
+T01020,2025-07-09,Field deployment,Coordinator D,15,17,2025-07-24,2025-07-26,3,False
+T01359,2025-07-09,Site audit,Coordinator C,4,8,2025-07-13,2025-07-17,4,False
+T00960,2025-07-09,Site audit,Coordinator C,4,8,2025-07-13,2025-07-17,1,False
+T00898,2025-07-10,Training rollout,Coordinator A,6,5,2025-07-16,2025-07-15,4,False
+T00096,2025-07-10,Procurement,Coordinator B,9,9,2025-07-19,2025-07-19,6,False
+T00832,2025-07-11,Field deployment,Coordinator B,7,7,2025-07-18,2025-07-18,2,False
+T00241,2025-07-12,Training rollout,Coordinator A,6,6,2025-07-18,2025-07-18,3,False
+T01192,2025-07-12,Stakeholder report,Coordinator D,5,5,2025-07-17,2025-07-17,2,True
+T00873,2025-07-12,Stakeholder report,Coordinator A,2,2,2025-07-14,2025-07-14,2,True
+T00754,2025-07-12,Field deployment,Coordinator D,11,10,2025-07-23,2025-07-22,1,False
+T00993,2025-07-13,Field deployment,Coordinator A,13,13,2025-07-26,2025-07-26,2,False
+T00360,2025-07-14,Site audit,Coordinator A,4,4,2025-07-18,2025-07-18,5,False
+T00187,2025-07-14,Site audit,Coordinator A,3,6,2025-07-17,2025-07-20,2,False
+T01165,2025-07-14,Stakeholder report,Coordinator B,5,5,2025-07-19,2025-07-19,4,False
+T01056,2025-07-15,Stakeholder report,Coordinator A,5,4,2025-07-20,2025-07-19,1,False
+T01156,2025-07-15,Procurement,Coordinator D,7,7,2025-07-22,2025-07-22,1,False
+T00937,2025-07-15,Training rollout,Coordinator C,5,4,2025-07-20,2025-07-19,2,False
+T01254,2025-07-16,Field deployment,Coordinator B,16,15,2025-08-01,2025-07-31,3,False
+T00661,2025-07-16,Field deployment,Coordinator A,11,10,2025-07-27,2025-07-26,4,False
+T00827,2025-07-16,Field deployment,Coordinator D,15,15,2025-07-31,2025-07-31,2,False
+T01313,2025-07-17,Stakeholder report,Coordinator B,3,2,2025-07-20,2025-07-19,2,False
+T01160,2025-07-17,Stakeholder report,Coordinator C,4,3,2025-07-21,2025-07-20,1,False
+T00979,2025-07-18,Field deployment,Coordinator B,19,18,2025-08-06,2025-08-05,3,True
+T01327,2025-07-18,Site audit,Coordinator C,4,9,2025-07-22,2025-07-27,2,True
+T01325,2025-07-18,Field deployment,Coordinator B,11,10,2025-07-29,2025-07-28,1,False
+T01195,2025-07-19,Training rollout,Coordinator B,7,7,2025-07-26,2025-07-26,2,False
+T00264,2025-07-19,Training rollout,Coordinator A,11,16,2025-07-30,2025-08-04,5,False
+T00404,2025-07-19,Stakeholder report,Coordinator B,4,3,2025-07-23,2025-07-22,2,False
+T00358,2025-07-19,Stakeholder report,Coordinator B,5,5,2025-07-24,2025-07-24,1,False
+T01400,2025-07-19,Site audit,Coordinator A,3,2,2025-07-22,2025-07-21,1,False
+T00437,2025-07-19,Procurement,Coordinator B,11,11,2025-07-30,2025-07-30,2,False
+T00728,2025-07-19,Stakeholder report,Coordinator B,4,4,2025-07-23,2025-07-23,2,False
+T00487,2025-07-19,Procurement,Coordinator D,9,9,2025-07-28,2025-07-28,3,False
+T01212,2025-07-20,Training rollout,Coordinator B,6,5,2025-07-26,2025-07-25,7,False
+T00922,2025-07-21,Site audit,Coordinator C,6,6,2025-07-27,2025-07-27,2,False
+T00198,2025-07-22,Procurement,Coordinator C,9,14,2025-07-31,2025-08-05,3,False
+T00357,2025-07-22,Field deployment,Coordinator A,13,12,2025-08-04,2025-08-03,3,False
+T00210,2025-07-22,Stakeholder report,Coordinator C,2,1,2025-07-24,2025-07-23,4,True
+T00076,2025-07-23,Stakeholder report,Coordinator C,4,6,2025-07-27,2025-07-29,2,False
+T00473,2025-07-23,Training rollout,Coordinator D,6,5,2025-07-29,2025-07-28,3,False
+T00034,2025-07-23,Training rollout,Coordinator C,9,16,2025-08-01,2025-08-08,1,False
+T00024,2025-07-24,Field deployment,Coordinator B,11,11,2025-08-04,2025-08-04,2,False
+T00781,2025-07-24,Field deployment,Coordinator B,13,12,2025-08-06,2025-08-05,2,False
+T01198,2025-07-24,Training rollout,Coordinator C,9,8,2025-08-02,2025-08-01,3,False
+T00546,2025-07-24,Procurement,Coordinator A,9,8,2025-08-02,2025-08-01,1,False
+T00262,2025-07-24,Site audit,Coordinator C,3,3,2025-07-27,2025-07-27,2,False
+T00089,2025-07-24,Procurement,Coordinator D,7,7,2025-07-31,2025-07-31,1,False
+T00891,2025-07-25,Training rollout,Coordinator A,9,9,2025-08-03,2025-08-03,2,False
+T00969,2025-07-25,Site audit,Coordinator A,5,4,2025-07-30,2025-07-29,2,False
+T00108,2025-07-25,Stakeholder report,Coordinator A,3,3,2025-07-28,2025-07-28,4,False
+T01093,2025-07-25,Training rollout,Coordinator A,8,8,2025-08-02,2025-08-02,2,False
+T01181,2025-07-26,Field deployment,Coordinator A,20,19,2025-08-15,2025-08-14,4,False
+T00711,2025-07-27,Stakeholder report,Coordinator C,3,2,2025-07-30,2025-07-29,1,False
+T00472,2025-07-27,Site audit,Coordinator D,4,3,2025-07-31,2025-07-30,3,False
+T00263,2025-07-27,Training rollout,Coordinator D,11,10,2025-08-07,2025-08-06,1,False
+T01316,2025-07-28,Stakeholder report,Coordinator C,5,5,2025-08-02,2025-08-02,2,False
+T00790,2025-07-28,Site audit,Coordinator B,5,4,2025-08-02,2025-08-01,1,False
+T00344,2025-07-29,Training rollout,Coordinator D,6,5,2025-08-04,2025-08-03,3,False
+T00554,2025-07-29,Field deployment,Coordinator D,12,12,2025-08-10,2025-08-10,2,False
+T00610,2025-07-30,Stakeholder report,Coordinator B,3,3,2025-08-02,2025-08-02,3,False
+T01278,2025-07-30,Field deployment,Coordinator C,11,17,2025-08-10,2025-08-16,3,False
+T00696,2025-07-31,Site audit,Coordinator C,4,3,2025-08-04,2025-08-03,2,False
+T00224,2025-07-31,Training rollout,Coordinator A,9,8,2025-08-09,2025-08-08,2,False
+T00650,2025-07-31,Stakeholder report,Coordinator D,4,3,2025-08-04,2025-08-03,3,True
+T00062,2025-07-31,Site audit,Coordinator A,5,4,2025-08-05,2025-08-04,2,False
+T00042,2025-08-01,Procurement,Coordinator A,9,11,2025-08-10,2025-08-12,2,False
+T01344,2025-08-01,Training rollout,Coordinator D,7,7,2025-08-08,2025-08-08,3,False
+T00296,2025-08-02,Field deployment,Coordinator A,10,10,2025-08-12,2025-08-12,3,False
+T00890,2025-08-02,Procurement,Coordinator D,4,4,2025-08-06,2025-08-06,4,False
+T01194,2025-08-02,Field deployment,Coordinator C,16,15,2025-08-18,2025-08-17,3,False
+T01001,2025-08-02,Stakeholder report,Coordinator B,4,3,2025-08-06,2025-08-05,1,False
+T01273,2025-08-03,Stakeholder report,Coordinator D,3,2,2025-08-06,2025-08-05,1,False
+T01252,2025-08-03,Procurement,Coordinator C,9,9,2025-08-12,2025-08-12,5,False
+T00633,2025-08-03,Procurement,Coordinator C,8,7,2025-08-11,2025-08-10,4,False
+T01097,2025-08-03,Stakeholder report,Coordinator B,4,4,2025-08-07,2025-08-07,2,True
+T00951,2025-08-03,Training rollout,Coordinator C,8,8,2025-08-11,2025-08-11,2,False
+T00904,2025-08-03,Site audit,Coordinator D,8,7,2025-08-11,2025-08-10,3,False
+T00036,2025-08-04,Field deployment,Coordinator B,10,10,2025-08-14,2025-08-14,2,False
+T00968,2025-08-04,Stakeholder report,Coordinator C,3,2,2025-08-07,2025-08-06,2,False
+T00530,2025-08-04,Field deployment,Coordinator A,5,4,2025-08-09,2025-08-08,3,False
+T00947,2025-08-05,Procurement,Coordinator B,11,11,2025-08-16,2025-08-16,3,False
+T01214,2025-08-05,Procurement,Coordinator A,6,5,2025-08-11,2025-08-10,4,False
+T00371,2025-08-05,Training rollout,Coordinator C,5,4,2025-08-10,2025-08-09,4,False
+T00776,2025-08-06,Procurement,Coordinator C,12,11,2025-08-18,2025-08-17,4,False
+T01074,2025-08-06,Field deployment,Coordinator C,17,17,2025-08-23,2025-08-23,3,False
+T00413,2025-08-07,Site audit,Coordinator B,5,4,2025-08-12,2025-08-11,3,False
+T00975,2025-08-07,Site audit,Coordinator D,4,3,2025-08-11,2025-08-10,3,False
+T00279,2025-08-07,Training rollout,Coordinator B,6,5,2025-08-13,2025-08-12,2,False
+T00982,2025-08-07,Field deployment,Coordinator A,15,15,2025-08-22,2025-08-22,6,False
+T00867,2025-08-07,Site audit,Coordinator D,4,4,2025-08-11,2025-08-11,2,False
+T01096,2025-08-08,Procurement,Coordinator D,8,16,2025-08-16,2025-08-24,2,False
+T00458,2025-08-08,Site audit,Coordinator D,6,6,2025-08-14,2025-08-14,3,False
+T01418,2025-08-10,Site audit,Coordinator D,7,6,2025-08-17,2025-08-16,1,True
+T00466,2025-08-11,Stakeholder report,Coordinator D,4,3,2025-08-15,2025-08-14,5,False
+T01170,2025-08-11,Stakeholder report,Coordinator A,4,4,2025-08-15,2025-08-15,4,False
+T01306,2025-08-12,Training rollout,Coordinator A,7,6,2025-08-19,2025-08-18,2,True
+T01178,2025-08-12,Stakeholder report,Coordinator A,2,2,2025-08-14,2025-08-14,5,False
+T00145,2025-08-13,Stakeholder report,Coordinator C,4,3,2025-08-17,2025-08-16,2,False
+T01153,2025-08-13,Training rollout,Coordinator B,8,8,2025-08-21,2025-08-21,2,False
+T01196,2025-08-13,Stakeholder report,Coordinator A,2,1,2025-08-15,2025-08-14,1,False
+T01113,2025-08-13,Site audit,Coordinator B,6,5,2025-08-19,2025-08-18,1,False
+T00162,2025-08-14,Stakeholder report,Coordinator C,3,3,2025-08-17,2025-08-17,2,False
+T01118,2025-08-15,Site audit,Coordinator C,7,6,2025-08-22,2025-08-21,1,False
+T00887,2025-08-15,Training rollout,Coordinator D,8,8,2025-08-23,2025-08-23,4,False
+T01166,2025-08-15,Field deployment,Coordinator C,10,9,2025-08-25,2025-08-24,3,False
+T01390,2025-08-15,Training rollout,Coordinator D,7,6,2025-08-22,2025-08-21,4,False
+T00258,2025-08-15,Stakeholder report,Coordinator B,3,3,2025-08-18,2025-08-18,1,False
+T00896,2025-08-16,Site audit,Coordinator C,4,3,2025-08-20,2025-08-19,4,True
+T00227,2025-08-16,Stakeholder report,Coordinator A,4,4,2025-08-20,2025-08-20,2,False
+T00333,2025-08-16,Procurement,Coordinator C,6,5,2025-08-22,2025-08-21,3,False
+T01103,2025-08-17,Training rollout,Coordinator D,11,10,2025-08-28,2025-08-27,2,False
+T00912,2025-08-17,Training rollout,Coordinator A,11,10,2025-08-28,2025-08-27,2,True
+T00452,2025-08-17,Field deployment,Coordinator B,11,10,2025-08-28,2025-08-27,2,False
+T00018,2025-08-17,Procurement,Coordinator A,10,9,2025-08-27,2025-08-26,1,False
+T00359,2025-08-17,Procurement,Coordinator C,11,10,2025-08-28,2025-08-27,1,False
+T00045,2025-08-17,Procurement,Coordinator A,10,9,2025-08-27,2025-08-26,2,False
+T00736,2025-08-17,Procurement,Coordinator A,7,7,2025-08-24,2025-08-24,4,False
+T00065,2025-08-17,Training rollout,Coordinator B,8,16,2025-08-25,2025-09-02,5,False
+T00534,2025-08-18,Site audit,Coordinator D,5,5,2025-08-23,2025-08-23,4,False
+T00242,2025-08-18,Field deployment,Coordinator D,12,14,2025-08-30,2025-09-01,2,False
+T00394,2025-08-18,Field deployment,Coordinator C,14,14,2025-09-01,2025-09-01,1,False
+T00168,2025-08-18,Field deployment,Coordinator C,11,11,2025-08-29,2025-08-29,3,False
+T00574,2025-08-19,Training rollout,Coordinator A,6,6,2025-08-25,2025-08-25,3,False
+T01021,2025-08-19,Stakeholder report,Coordinator B,3,2,2025-08-22,2025-08-21,3,False
+T00418,2025-08-20,Stakeholder report,Coordinator A,4,3,2025-08-24,2025-08-23,2,False
+T00409,2025-08-21,Field deployment,Coordinator C,9,16,2025-08-30,2025-09-06,1,False
+T01405,2025-08-22,Site audit,Coordinator D,6,6,2025-08-28,2025-08-28,2,False
+T00451,2025-08-22,Procurement,Coordinator C,10,14,2025-09-01,2025-09-05,3,False
+T00081,2025-08-23,Stakeholder report,Coordinator C,2,2,2025-08-25,2025-08-25,1,False
+T00926,2025-08-23,Stakeholder report,Coordinator C,4,3,2025-08-27,2025-08-26,5,False
+T00478,2025-08-23,Stakeholder report,Coordinator C,4,3,2025-08-27,2025-08-26,1,False
+T01167,2025-08-23,Procurement,Coordinator C,11,11,2025-09-03,2025-09-03,1,False
+T01426,2025-08-23,Procurement,Coordinator C,11,10,2025-09-03,2025-09-02,2,False
+T00123,2025-08-24,Stakeholder report,Coordinator D,5,5,2025-08-29,2025-08-29,3,False
+T01144,2025-08-26,Stakeholder report,Coordinator D,4,3,2025-08-30,2025-08-29,1,False
+T01289,2025-08-26,Training rollout,Coordinator D,4,6,2025-08-30,2025-09-01,1,False
+T00809,2025-08-27,Stakeholder report,Coordinator B,4,3,2025-08-31,2025-08-30,1,False
+T00986,2025-08-27,Field deployment,Coordinator C,17,17,2025-09-13,2025-09-13,2,True
+T00507,2025-08-27,Field deployment,Coordinator D,13,12,2025-09-09,2025-09-08,3,False
+T01072,2025-08-27,Training rollout,Coordinator B,7,6,2025-09-03,2025-09-02,4,False
+T00297,2025-08-27,Site audit,Coordinator A,6,9,2025-09-02,2025-09-05,3,True
+T01049,2025-08-27,Procurement,Coordinator A,9,9,2025-09-05,2025-09-05,1,False
+T01379,2025-08-28,Training rollout,Coordinator A,8,14,2025-09-05,2025-09-11,4,False
+T00693,2025-08-28,Training rollout,Coordinator A,4,7,2025-09-01,2025-09-04,4,False
+T01050,2025-08-28,Procurement,Coordinator B,10,17,2025-09-07,2025-09-14,5,False
+T01387,2025-08-28,Site audit,Coordinator A,6,6,2025-09-03,2025-09-03,4,False
+T00399,2025-08-29,Field deployment,Coordinator B,8,8,2025-09-06,2025-09-06,1,False
+T00721,2025-08-29,Stakeholder report,Coordinator B,4,4,2025-09-02,2025-09-02,3,False
+T01086,2025-08-30,Field deployment,Coordinator C,14,13,2025-09-13,2025-09-12,1,False
+T00634,2025-08-30,Training rollout,Coordinator D,9,9,2025-09-08,2025-09-08,5,False
+T01250,2025-08-30,Field deployment,Coordinator A,14,14,2025-09-13,2025-09-13,3,False
+T00536,2025-08-30,Stakeholder report,Coordinator B,3,3,2025-09-02,2025-09-02,2,True
+T00612,2025-08-30,Training rollout,Coordinator D,5,5,2025-09-04,2025-09-04,1,False
+T00613,2025-08-30,Field deployment,Coordinator A,12,12,2025-09-11,2025-09-11,3,False
+T00956,2025-09-01,Field deployment,Coordinator C,10,9,2025-09-11,2025-09-10,2,False
+T00291,2025-09-01,Procurement,Coordinator C,7,10,2025-09-08,2025-09-11,1,False
+T01296,2025-09-01,Stakeholder report,Coordinator A,4,4,2025-09-05,2025-09-05,2,False
+T01267,2025-09-02,Field deployment,Coordinator A,11,11,2025-09-13,2025-09-13,3,False
+T00758,2025-09-02,Field deployment,Coordinator C,12,12,2025-09-14,2025-09-14,1,False
+T00115,2025-09-02,Field deployment,Coordinator B,10,9,2025-09-12,2025-09-11,1,False
+T00964,2025-09-02,Training rollout,Coordinator C,10,14,2025-09-12,2025-09-16,6,True
+T01134,2025-09-03,Field deployment,Coordinator C,12,11,2025-09-15,2025-09-14,1,False
+T00505,2025-09-03,Site audit,Coordinator D,5,9,2025-09-08,2025-09-12,1,False
+T00773,2025-09-04,Field deployment,Coordinator C,18,17,2025-09-22,2025-09-21,3,False
+T01301,2025-09-04,Field deployment,Coordinator D,11,11,2025-09-15,2025-09-15,3,False
+T00338,2025-09-04,Procurement,Coordinator B,10,10,2025-09-14,2025-09-14,3,False
+T01404,2025-09-04,Training rollout,Coordinator D,3,2,2025-09-07,2025-09-06,2,False
+T01244,2025-09-05,Training rollout,Coordinator C,6,5,2025-09-11,2025-09-10,2,True
+T00607,2025-09-06,Stakeholder report,Coordinator D,4,4,2025-09-10,2025-09-10,3,False
+T01277,2025-09-06,Stakeholder report,Coordinator C,4,4,2025-09-10,2025-09-10,1,False
+T00443,2025-09-06,Stakeholder report,Coordinator A,4,4,2025-09-10,2025-09-10,2,False
+T01257,2025-09-07,Training rollout,Coordinator D,7,6,2025-09-14,2025-09-13,4,False
+T00828,2025-09-07,Site audit,Coordinator A,6,9,2025-09-13,2025-09-16,1,False
+T00496,2025-09-07,Field deployment,Coordinator B,16,19,2025-09-23,2025-09-26,3,False
+T00141,2025-09-07,Field deployment,Coordinator B,17,16,2025-09-24,2025-09-23,1,False
+T01347,2025-09-07,Training rollout,Coordinator D,6,6,2025-09-13,2025-09-13,3,False
+T00056,2025-09-08,Field deployment,Coordinator D,17,17,2025-09-25,2025-09-25,3,False
+T01161,2025-09-08,Field deployment,Coordinator D,14,14,2025-09-22,2025-09-22,3,False
+T01063,2025-09-08,Site audit,Coordinator C,5,4,2025-09-13,2025-09-12,1,False
+T00167,2025-09-08,Procurement,Coordinator C,10,10,2025-09-18,2025-09-18,2,False
+T00254,2025-09-08,Stakeholder report,Coordinator D,5,7,2025-09-13,2025-09-15,2,False
+T00450,2025-09-09,Procurement,Coordinator D,12,12,2025-09-21,2025-09-21,1,False
+T00311,2025-09-09,Stakeholder report,Coordinator B,4,4,2025-09-13,2025-09-13,6,False
+T00185,2025-09-10,Stakeholder report,Coordinator D,4,4,2025-09-14,2025-09-14,1,False
+T00202,2025-09-10,Field deployment,Coordinator D,12,12,2025-09-22,2025-09-22,1,False
+T00623,2025-09-10,Stakeholder report,Coordinator C,3,2,2025-09-13,2025-09-12,2,False
+T00746,2025-09-11,Site audit,Coordinator D,4,4,2025-09-15,2025-09-15,3,False
+T00731,2025-09-12,Stakeholder report,Coordinator B,5,4,2025-09-17,2025-09-16,4,False
+T00725,2025-09-12,Field deployment,Coordinator B,15,15,2025-09-27,2025-09-27,4,True
+T00617,2025-09-12,Site audit,Coordinator C,5,4,2025-09-17,2025-09-16,3,False
+T01104,2025-09-12,Field deployment,Coordinator A,11,18,2025-09-23,2025-09-30,2,False
+T00799,2025-09-13,Procurement,Coordinator D,9,8,2025-09-22,2025-09-21,2,False
+T00525,2025-09-13,Training rollout,Coordinator D,6,5,2025-09-19,2025-09-18,5,False
+T01087,2025-09-14,Procurement,Coordinator D,10,10,2025-09-24,2025-09-24,4,False
+T00128,2025-09-14,Field deployment,Coordinator D,17,16,2025-10-01,2025-09-30,4,False
+T00462,2025-09-14,Site audit,Coordinator A,6,6,2025-09-20,2025-09-20,2,False
+T00449,2025-09-14,Field deployment,Coordinator D,19,19,2025-10-03,2025-10-03,3,False
+T00980,2025-09-14,Site audit,Coordinator A,4,4,2025-09-18,2025-09-18,2,False
+T00119,2025-09-15,Stakeholder report,Coordinator A,5,5,2025-09-20,2025-09-20,2,False
+T00132,2025-09-15,Stakeholder report,Coordinator C,4,4,2025-09-19,2025-09-19,1,False
+T00852,2025-09-15,Training rollout,Coordinator C,7,6,2025-09-22,2025-09-21,3,False
+T01191,2025-09-15,Procurement,Coordinator D,12,12,2025-09-27,2025-09-27,1,False
+T01248,2025-09-15,Procurement,Coordinator D,6,5,2025-09-21,2025-09-20,5,False
+T00277,2025-09-15,Stakeholder report,Coordinator C,5,5,2025-09-20,2025-09-20,3,False
+T00408,2025-09-16,Stakeholder report,Coordinator C,4,4,2025-09-20,2025-09-20,4,False
+T01385,2025-09-16,Site audit,Coordinator C,4,3,2025-09-20,2025-09-19,1,False
+T00269,2025-09-17,Field deployment,Coordinator B,14,14,2025-10-01,2025-10-01,1,False
+T00631,2025-09-17,Site audit,Coordinator C,3,3,2025-09-20,2025-09-20,1,False
+T00318,2025-09-17,Stakeholder report,Coordinator D,5,4,2025-09-22,2025-09-21,3,False
+T00659,2025-09-17,Stakeholder report,Coordinator B,5,5,2025-09-22,2025-09-22,3,False
+T01279,2025-09-18,Stakeholder report,Coordinator A,3,3,2025-09-21,2025-09-21,1,False
+T00309,2025-09-18,Stakeholder report,Coordinator A,5,4,2025-09-23,2025-09-22,3,False
+T01413,2025-09-18,Training rollout,Coordinator B,7,7,2025-09-25,2025-09-25,2,False
+T00014,2025-09-18,Site audit,Coordinator B,6,6,2025-09-24,2025-09-24,2,False
+T00805,2025-09-19,Site audit,Coordinator B,5,5,2025-09-24,2025-09-24,2,False
+T00877,2025-09-19,Procurement,Coordinator D,9,9,2025-09-28,2025-09-28,1,False
+T00442,2025-09-19,Training rollout,Coordinator B,6,6,2025-09-25,2025-09-25,3,True
+T00039,2025-09-20,Field deployment,Coordinator A,10,10,2025-09-30,2025-09-30,5,False
+T00010,2025-09-21,Procurement,Coordinator C,11,16,2025-10-02,2025-10-07,3,False
+T00312,2025-09-21,Site audit,Coordinator D,5,5,2025-09-26,2025-09-26,5,False
+T01169,2025-09-21,Site audit,Coordinator B,5,7,2025-09-26,2025-09-28,2,False
+T00849,2025-09-22,Field deployment,Coordinator D,16,16,2025-10-08,2025-10-08,3,False
+T00234,2025-09-22,Stakeholder report,Coordinator D,2,1,2025-09-24,2025-09-23,2,False
+T00479,2025-09-22,Field deployment,Coordinator C,10,9,2025-10-02,2025-10-01,2,False
+T00075,2025-09-23,Training rollout,Coordinator A,5,4,2025-09-28,2025-09-27,2,True
+T01204,2025-09-24,Field deployment,Coordinator B,13,13,2025-10-07,2025-10-07,4,False
+T00782,2025-09-24,Stakeholder report,Coordinator B,2,1,2025-09-26,2025-09-25,3,True
+T01428,2025-09-25,Procurement,Coordinator A,10,13,2025-10-05,2025-10-08,4,False
+T00815,2025-09-25,Training rollout,Coordinator B,8,7,2025-10-03,2025-10-02,2,False
+T00270,2025-09-25,Site audit,Coordinator B,8,7,2025-10-03,2025-10-02,3,False
+T00669,2025-09-26,Procurement,Coordinator C,11,11,2025-10-07,2025-10-07,1,False
+T00403,2025-09-26,Field deployment,Coordinator C,12,12,2025-10-08,2025-10-08,4,False
+T00541,2025-09-27,Stakeholder report,Coordinator D,4,3,2025-10-01,2025-09-30,1,False
+T00005,2025-09-27,Site audit,Coordinator C,6,5,2025-10-03,2025-10-02,2,False
+T00287,2025-09-28,Field deployment,Coordinator D,13,19,2025-10-11,2025-10-17,1,False
+T01340,2025-09-28,Field deployment,Coordinator D,10,10,2025-10-08,2025-10-08,3,False
+T00016,2025-09-29,Procurement,Coordinator C,10,10,2025-10-09,2025-10-09,3,False
+T00843,2025-09-29,Site audit,Coordinator D,5,7,2025-10-04,2025-10-06,3,False
+T00240,2025-09-29,Procurement,Coordinator B,7,6,2025-10-06,2025-10-05,3,False
+T01346,2025-09-30,Stakeholder report,Coordinator B,5,5,2025-10-05,2025-10-05,1,False
+T01221,2025-09-30,Procurement,Coordinator A,6,5,2025-10-06,2025-10-05,3,False
+T00930,2025-09-30,Stakeholder report,Coordinator D,6,5,2025-10-06,2025-10-05,2,True
+T01154,2025-10-01,Procurement,Coordinator C,10,16,2025-10-11,2025-10-17,1,False
+T01338,2025-10-01,Field deployment,Coordinator A,15,14,2025-10-16,2025-10-15,4,False
+T00284,2025-10-03,Site audit,Coordinator C,2,1,2025-10-05,2025-10-04,1,False
+T00682,2025-10-03,Field deployment,Coordinator C,13,17,2025-10-16,2025-10-20,2,False
+T00485,2025-10-04,Site audit,Coordinator C,6,6,2025-10-10,2025-10-10,1,False
+T01402,2025-10-04,Stakeholder report,Coordinator D,5,4,2025-10-09,2025-10-08,2,False
+T01133,2025-10-05,Procurement,Coordinator A,11,10,2025-10-16,2025-10-15,2,False
+T00492,2025-10-05,Stakeholder report,Coordinator B,3,3,2025-10-08,2025-10-08,3,False
+T00513,2025-10-05,Stakeholder report,Coordinator C,5,5,2025-10-10,2025-10-10,3,False
+T00597,2025-10-05,Stakeholder report,Coordinator C,3,6,2025-10-08,2025-10-11,2,False
+T00495,2025-10-05,Stakeholder report,Coordinator A,4,4,2025-10-09,2025-10-09,1,False
+T00987,2025-10-06,Stakeholder report,Coordinator D,4,3,2025-10-10,2025-10-09,4,False
+T00159,2025-10-06,Field deployment,Coordinator C,14,14,2025-10-20,2025-10-20,3,False
+T00110,2025-10-06,Stakeholder report,Coordinator C,5,5,2025-10-11,2025-10-11,2,False
+T00321,2025-10-07,Procurement,Coordinator A,12,17,2025-10-19,2025-10-24,2,False
+T00691,2025-10-07,Site audit,Coordinator B,5,4,2025-10-12,2025-10-11,3,False
+T01423,2025-10-07,Site audit,Coordinator D,6,5,2025-10-13,2025-10-12,3,False
+T00800,2025-10-07,Stakeholder report,Coordinator D,4,4,2025-10-11,2025-10-11,2,False
+T01005,2025-10-07,Field deployment,Coordinator D,11,11,2025-10-18,2025-10-18,4,False
+T00253,2025-10-08,Stakeholder report,Coordinator C,2,2,2025-10-10,2025-10-10,2,True
+T00248,2025-10-08,Field deployment,Coordinator B,9,12,2025-10-17,2025-10-20,3,False
+T01334,2025-10-08,Training rollout,Coordinator C,6,9,2025-10-14,2025-10-17,3,False
+T01054,2025-10-09,Stakeholder report,Coordinator A,5,5,2025-10-14,2025-10-14,1,False
+T01362,2025-10-09,Stakeholder report,Coordinator B,4,4,2025-10-13,2025-10-13,3,False
+T00615,2025-10-10,Training rollout,Coordinator C,8,8,2025-10-18,2025-10-18,2,False
+T00173,2025-10-11,Stakeholder report,Coordinator B,4,4,2025-10-15,2025-10-15,2,False
+T00194,2025-10-11,Site audit,Coordinator C,4,3,2025-10-15,2025-10-14,2,False
+T00570,2025-10-11,Stakeholder report,Coordinator C,5,4,2025-10-16,2025-10-15,1,False
+T00074,2025-10-11,Stakeholder report,Coordinator C,5,7,2025-10-16,2025-10-18,2,False
+T01209,2025-10-12,Site audit,Coordinator D,4,3,2025-10-16,2025-10-15,7,True
+T00730,2025-10-12,Training rollout,Coordinator B,8,14,2025-10-20,2025-10-26,2,False
+T00213,2025-10-13,Stakeholder report,Coordinator A,2,1,2025-10-15,2025-10-14,2,False
+T00161,2025-10-15,Field deployment,Coordinator C,12,11,2025-10-27,2025-10-26,2,False
+T00618,2025-10-16,Training rollout,Coordinator B,9,9,2025-10-25,2025-10-25,1,True
+T00592,2025-10-16,Procurement,Coordinator D,8,8,2025-10-24,2025-10-24,3,False
+T00579,2025-10-16,Stakeholder report,Coordinator A,4,3,2025-10-20,2025-10-19,5,False
+T00826,2025-10-16,Procurement,Coordinator D,12,11,2025-10-28,2025-10-27,4,False
+T00523,2025-10-17,Stakeholder report,Coordinator A,4,7,2025-10-21,2025-10-24,3,False
+T00630,2025-10-17,Training rollout,Coordinator D,3,3,2025-10-20,2025-10-20,2,True
+T00940,2025-10-19,Stakeholder report,Coordinator B,5,4,2025-10-24,2025-10-23,3,False
+T01343,2025-10-19,Site audit,Coordinator D,7,7,2025-10-26,2025-10-26,1,False
+T00044,2025-10-19,Field deployment,Coordinator D,10,17,2025-10-29,2025-11-05,1,False
+T00885,2025-10-20,Stakeholder report,Coordinator D,5,5,2025-10-25,2025-10-25,1,True
+T00743,2025-10-20,Stakeholder report,Coordinator B,5,5,2025-10-25,2025-10-25,3,False
+T00030,2025-10-20,Training rollout,Coordinator B,7,6,2025-10-27,2025-10-26,1,False
+T01280,2025-10-21,Stakeholder report,Coordinator D,4,4,2025-10-25,2025-10-25,3,True
+T00412,2025-10-22,Procurement,Coordinator D,8,7,2025-10-30,2025-10-29,3,False
+T01312,2025-10-23,Training rollout,Coordinator A,9,9,2025-11-01,2025-11-01,2,False
+T00714,2025-10-23,Site audit,Coordinator B,6,5,2025-10-29,2025-10-28,2,False
+T01324,2025-10-23,Stakeholder report,Coordinator D,4,3,2025-10-27,2025-10-26,2,False
+T00585,2025-10-24,Stakeholder report,Coordinator A,5,4,2025-10-29,2025-10-28,4,False
+T00032,2025-10-24,Site audit,Coordinator D,5,5,2025-10-29,2025-10-29,1,False
+T00872,2025-10-25,Field deployment,Coordinator C,13,12,2025-11-07,2025-11-06,1,False
+T00054,2025-10-25,Stakeholder report,Coordinator D,3,3,2025-10-28,2025-10-28,3,True
+T01369,2025-10-25,Training rollout,Coordinator C,8,7,2025-11-02,2025-11-01,1,False
+T01155,2025-10-25,Training rollout,Coordinator D,9,9,2025-11-03,2025-11-03,2,False
+T00512,2025-10-26,Stakeholder report,Coordinator C,3,2,2025-10-29,2025-10-28,3,True
+T01046,2025-10-26,Stakeholder report,Coordinator C,5,7,2025-10-31,2025-11-02,2,False
+T01207,2025-10-26,Stakeholder report,Coordinator D,4,3,2025-10-30,2025-10-29,3,False
+T00542,2025-10-26,Stakeholder report,Coordinator C,4,4,2025-10-30,2025-10-30,2,False
+T00695,2025-10-26,Field deployment,Coordinator B,12,14,2025-11-07,2025-11-09,4,False
+T00665,2025-10-26,Site audit,Coordinator A,3,2,2025-10-29,2025-10-28,3,False
+T00340,2025-10-27,Field deployment,Coordinator B,11,10,2025-11-07,2025-11-06,2,False
